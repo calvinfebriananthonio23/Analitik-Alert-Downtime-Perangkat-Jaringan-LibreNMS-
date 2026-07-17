@@ -1,0 +1,3520 @@
+message,Jumlah
+ifAdminStatus:  -> up,4567
+ifConnectorPresent:  -> true,4412
+ifOperStatus:  -> up,4246
+ifMtu:  -> 1492,3963
+ifType:  -> ppp,3940
+ifOperStatus: up -> down,657
+ifOperStatus: down -> up,621
+ifMtu:  -> 1500,603
+ifSpeed: 0 bps -> 10 Gbps,548
+ifType:  -> ethernetCsmacd,451
+ifConnectorPresent:  -> false,400
+ifConnectorPresent: false -> NULL,398
+ifOperStatus:  -> down,333
+Fanspeed under threshold: 4305 rpm (< 5232 rpm),276
+Fanspeed under threshold: 4065 rpm (< 4860 rpm),237
+ifAdminStatus:  -> down,224
+ifDuplex:  -> fullDuplex,212
+Fanspeed under threshold: 4050 rpm (< 4860 rpm),200
+ifType:  -> gpon,184
+STP designated root changed: 380e4daf0ab7 > ,181
+ifType: gpon -> NULL,168
+Fanspeed under threshold: 4290 rpm (< 5232 rpm),154
+ifPhysAddress:  -> 000000000000,144
+ifAdminStatus: up -> NULL,138
+ifDescr:  -> ppp1,131
+ifAlias:  -> ppp1,131
+ifPhysAddress: 000000000000 -> NULL,128
+ifMtu: 1500 -> NULL,124
+ifAlias:  -> ppp26,124
+ifDescr:  -> ppp26,124
+ifAlias:  -> ppp18,112
+ifDescr:  -> ppp18,112
+ifSpeed: 10 Gbps -> 0 bps,110
+ifAlias:  -> ppp28,108
+ifAlias:  -> ppp41,108
+ifDescr:  -> ppp41,108
+ifDescr:  -> ppp28,108
+ifDescr:  -> ppp100,92
+ifAlias:  -> ppp100,92
+ifMtu:  -> 0,90
+STP designated root changed:  > 380e4daf0ab7,90
+ifOperStatus: up -> NULL,89
+ifDescr:  -> ppp63,86
+ifAlias:  -> ppp63,86
+ifDescr:  -> ppp56,83
+ifAlias:  -> ppp56,83
+ifDescr:  -> ppp53,82
+ifAlias:  -> ppp53,82
+ifAlias:  -> ppp8,66
+ifDescr:  -> ppp8,66
+Fanspeed under threshold: 4080 rpm (< 4860 rpm),65
+ifAlias:  -> ppp9,62
+ifAlias:  -> ppp43,62
+ifDescr:  -> ppp43,62
+ifDescr:  -> ppp9,62
+ifAlias:  -> ppp23,58
+ifDescr:  -> ppp23,58
+ifOperStatus: down -> NULL,57
+Temperature under threshold: 32 °C (< 33 °C),57
+ifAlias:  -> ppp19,57
+ifDescr:  -> ppp19,57
+ifAlias:  -> ppp5,56
+ifDescr:  -> ppp5,56
+ifDescr:  -> ppp57,55
+ifAlias:  -> ppp57,55
+ifSpeed: 10 Gbps -> 4.29 Gbps,54
+ifSpeed: 4.29 Gbps -> 10 Gbps,54
+ifAdminStatus: down -> NULL,54
+ifSpeed: 4.29 Gbps -> 100 Gbps,52
+ifSpeed: 100 Gbps -> 4.29 Gbps,52
+Fanspeed above threshold: 6870 rpm (> 6804 rpm),47
+ifAlias:  -> ppp13,46
+ifDescr:  -> ppp13,46
+Fanspeed under threshold: 4320 rpm (< 5232 rpm),46
+ifAlias:  -> ppp4,46
+ifDescr:  -> ppp4,46
+ifSpeed: 0 bps -> 40 Gbps,43
+ifAlias:  -> ppp35,43
+STP designated root changed:  > 70db983252d7,43
+ifDescr:  -> ppp35,43
+ifDescr:  -> ppp2,41
+Fanspeed above threshold: 6900 rpm (> 6804 rpm),41
+ifMtu:  -> 1450,41
+ifAlias:  -> ppp2,41
+STP designated root changed: 70db983252d7 > ,41
+ifAlias:  -> ppp78,40
+ifDescr:  -> ppp78,40
+ifDescr:  -> ppp16,40
+ifAlias:  -> ppp16,40
+ifMtu:  -> 1600,40
+Temperature under threshold: 31 °C (< 33 °C),39
+Fanspeed under threshold: 4335 rpm (< 5232 rpm),39
+Fanspeed above threshold: 6570 rpm (> 6480 rpm),38
+ifSpeed: 40 Gbps -> 0 bps,38
+ifType:  -> other,37
+ifDescr:  -> ppp55,37
+ifAlias:  -> ppp55,37
+ifAlias:  -> ppp67,36
+ifDescr:  -> ppp67,36
+ifAlias:  -> ppp52,36
+ifDescr:  -> ppp52,36
+ifAlias:  -> ppp21,35
+ifDescr:  -> ppp21,35
+ifDescr:  -> ppp99,35
+ifAlias:  -> ppp99,35
+ifAlias:  -> <sstp-bandung>,34
+ifDescr:  -> <sstp-bandung>,34
+ifAlias:  -> ppp102,33
+ifAlias:  -> ppp65,33
+ifDescr:  -> ppp102,33
+ifDescr:  -> ppp65,33
+ifDescr:  -> ppp83,32
+ifDescr:  -> ppp91,32
+ifDescr:  -> ppp98,32
+ifAlias:  -> ppp98,32
+ifAlias:  -> ppp91,32
+ifAlias:  -> ppp83,32
+ifDescr:  -> ppp81,31
+ifAlias:  -> ppp81,31
+ifDescr:  -> ppp77,30
+ifDescr:  -> ppp104,30
+ifAlias:  -> ppp3,30
+ifAlias:  -> ppp77,30
+ifAlias:  -> ppp104,30
+ifDescr:  -> ppp3,30
+ifAlias:  -> ppp101,30
+ifDescr:  -> ppp101,30
+ifAdminStatus: up -> down,30
+ifAlias:  -> ppp50,28
+Device status changed to Down from snmp check.,28
+Device status changed to Up from snmp check.,28
+ifType: ethernetCsmacd -> NULL,28
+ifDescr:  -> ppp50,28
+Fanspeed under threshold: 4365 rpm (< 5232 rpm),28
+ifType:  -> l2vlan,27
+ifDescr:  -> ppp48,27
+ifAlias:  -> ppp48,27
+ifDescr:  -> <pptp-roy-1>,26
+ifAlias:  -> <pptp-roy-1>,26
+ifDescr:  -> ppp95,26
+ifAlias:  -> ppp95,26
+ifMtu: 1450 -> 0,25
+Device status changed to Down from icmp check.,25
+Device status changed to Up from icmp check.,25
+ifVlan: 1 -> NULL,25
+Fanspeed under threshold: 4095 rpm (< 4860 rpm),25
+ifConnectorPresent: true -> NULL,25
+ifAlias:  -> ppp70,24
+ifDuplex: unknown -> fullDuplex,24
+ifDescr:  -> ppp70,24
+Fanspeed under threshold: 4110 rpm (< 4860 rpm),24
+ifDuplex: fullDuplex -> unknown,22
+ifAlias:  -> ppp107,22
+ifDescr:  -> ppp107,22
+ifAlias:  -> ppp82,21
+ifTrunk: dot1Q -> NULL,21
+Temperature above threshold: -21 °C (> -980 °C),21
+ifDescr:  -> ppp82,21
+ifDescr:  -> ppp208,20
+ifSpeed: 0 bps -> 1 Gbps,20
+ifDescr:  -> ppp113,20
+ifDescr:  -> ppp11,20
+ifDescr:  -> ppp153,20
+ifAlias:  -> ppp11,20
+ifAlias:  -> ppp49,20
+ifDescr:  -> ppp49,20
+ifAlias:  -> ppp113,20
+ifDescr:  -> ppp96,20
+ifAlias:  -> ppp96,20
+ifAlias:  -> ppp153,20
+ifDescr:  -> ppp58,20
+ifAlias:  -> ppp208,20
+ifAlias:  -> ppp58,20
+ifDuplex: fullDuplex -> NULL,19
+ifAlias:  -> ppp118,19
+ifDescr:  -> ppp118,19
+Fanspeed above threshold: 6840 rpm (> 6750 rpm),18
+ifAlias:  -> ppp317,18
+ifDescr:  -> ppp317,18
+ifAlias:  -> ppp182,18
+ifDescr:  -> ppp182,18
+ifAlias:  -> ppp120,17
+ifDescr:  -> ppp120,17
+ifDescr:  -> ppp121,17
+ifAlias:  -> ppp121,17
+ifAlias:  -> ppp131,16
+ifDescr:  -> ppp90,16
+Fanspeed under threshold: 4140 rpm (< 4860 rpm),16
+Fanspeed under threshold: 4155 rpm (< 4860 rpm),16
+ifAlias:  -> ppp90,16
+ifAlias:  -> ppp36,16
+ifMtu: 1600 -> NULL,16
+ifDescr:  -> ppp36,16
+ifAlias:  -> ppp250,16
+ifDescr:  -> ppp178,16
+ifDescr:  -> ppp328,16
+ifDescr:  -> ppp131,16
+ifAlias:  -> ppp178,16
+ifDescr:  -> ppp250,16
+ifAlias:  -> ppp328,16
+ifSpeed: 25 Gbps -> 10 Gbps,16
+ifAlias:  -> ppp133,15
+Fanspeed under threshold: 4185 rpm (< 4860 rpm),15
+ifAlias:  -> ppp214,15
+ifDescr:  -> ppp133,15
+Fanspeed under threshold: 4380 rpm (< 5232 rpm),15
+ifDescr:  -> ppp214,15
+Temperature above threshold: 64 °C (> 63 °C),15
+Sensor Updated: current zxa10 1.1.3 Current Card,14
+Sensor Updated: current zxa10 1.1.3 Current Card GTGOG,14
+Sensor Updated: current zxa10 1.1.4 Current Card,14
+Sensor Updated: current zxa10 1.1.4 Current Card GTGHG,14
+Sensor Updated: current zxa10 1.1.5 Current Card,14
+Sensor Updated: current zxa10 1.1.5 Current Card GTGHG,14
+Sensor Updated: current zxa10 1.1.6 Current Card,14
+Sensor Updated: current zxa10 1.1.6 Current Card GTGOG,14
+Sensor Updated: power zxa10 1.1.2 Power Consumption Card,14
+Sensor Updated: power zxa10 1.1.2 Power Consumption Card GTGOG,14
+Sensor Updated: power zxa10 1.1.3 Power Consumption Card,14
+Sensor Updated: power zxa10 1.1.3 Power Consumption Card GTGOG,14
+Sensor Updated: power zxa10 1.1.4 Power Consumption Card,14
+Sensor Updated: power zxa10 1.1.4 Power Consumption Card GTGHG,14
+Sensor Updated: power zxa10 1.1.5 Power Consumption Card,14
+Sensor Updated: power zxa10 1.1.5 Power Consumption Card GTGHG,14
+Sensor Updated: power zxa10 1.1.6 Power Consumption Card,14
+Sensor Updated: power zxa10 1.1.6 Power Consumption Card GTGOG,14
+Sensor Updated: temperature zxa10 1.1.0 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.1 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.10 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.10 Temp Card SCXM,14
+ifAlias:  -> ppp240,14
+Sensor Updated: temperature zxa10 1.1.11 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.19 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.19 Temp Card HUVQ,14
+Sensor Updated: temperature zxa10 1.1.2 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.2 Temp Card GTGOG,14
+Sensor Updated: temperature zxa10 1.1.3 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.3 Temp Card GTGOG,14
+Sensor Updated: temperature zxa10 1.1.4 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.4 Temp Card GTGHG,14
+Sensor Updated: temperature zxa10 1.1.5 Temp Card,14
+Fanspeed under threshold: 4125 rpm (< 4860 rpm),14
+Fanspeed under threshold: 4170 rpm (< 4860 rpm),14
+Sensor Updated: temperature zxa10 1.1.5 Temp Card GTGHG,14
+Sensor Updated: temperature zxa10 1.1.6 Temp Card,14
+Sensor Updated: temperature zxa10 1.1.6 Temp Card GTGOG,14
+Sensor Updated: voltage zxa10 1.1.2 Voltage Card,14
+Sensor Updated: voltage zxa10 1.1.2 Voltage Card GTGOG,14
+Sensor Updated: voltage zxa10 1.1.3 Voltage Card,14
+Sensor Updated: voltage zxa10 1.1.3 Voltage Card GTGOG,14
+Sensor Updated: voltage zxa10 1.1.4 Voltage Card,14
+Sensor Updated: voltage zxa10 1.1.4 Voltage Card GTGHG,14
+Sensor Updated: voltage zxa10 1.1.5 Voltage Card,14
+Sensor Updated: voltage zxa10 1.1.5 Voltage Card GTGHG,14
+Sensor Updated: voltage zxa10 1.1.6 Voltage Card,14
+Sensor Updated: voltage zxa10 1.1.6 Voltage Card GTGOG,14
+ifAlias:  -> ppp47,14
+ifDescr:  -> ppp124,14
+ifDescr:  -> ppp240,14
+ifDescr:  -> ppp27,14
+ifDescr:  -> ppp306,14
+ifDescr:  -> ppp33,14
+ifDescr:  -> ppp351,14
+Fanspeed under threshold: 4425 rpm (< 5232 rpm),14
+ifDescr:  -> ppp47,14
+ifDescr:  -> ppp87,14
+ifSpeed: 10 Gbps -> 25 Gbps,14
+ifAlias:  -> ppp27,14
+ifAlias:  -> ppp306,14
+Fanspeed under threshold: 4455 rpm (< 5232 rpm),14
+ifAlias:  -> ppp33,14
+ifAlias:  -> ppp87,14
+ifAlias:  -> ppp351,14
+ifAlias:  -> ppp124,14
+Sensor Updated: current zxa10 1.1.2 Current Card,14
+Sensor Updated: current zxa10 1.1.2 Current Card GTGOG,14
+ifAlias:  -> ppp288,13
+ifDescr:  -> ppp300,13
+Sensor Updated: temperature zxa10 1.1.1 Temp Card PRWG,13
+ifDescr:  -> ppp288,13
+ifAlias:  -> ppp341,13
+ifDescr:  -> ppp258,13
+ifAlias:  -> ppp39,13
+Sensor Updated: temperature zxa10 1.1.0 Temp Card PRWG,13
+Sensor Updated: temperature zxa10 1.1.11 Temp Card SCXM,13
+ifAlias:  -> ppp209,13
+Fanspeed under threshold: 4350 rpm (< 5232 rpm),13
+Fanspeed under threshold: 4365 rpm (< 4860 rpm),13
+ifDescr:  -> ppp0,13
+ifAlias:  -> ppp0,13
+ifAlias:  -> ppp258,13
+ifDescr:  -> ppp165,13
+ifDescr:  -> ppp39,13
+ifAlias:  -> ppp165,13
+ifDescr:  -> ppp17,13
+Fanspeed under threshold: 4410 rpm (< 5232 rpm),13
+ifDescr:  -> ppp341,13
+ifAlias:  -> ppp300,13
+ifDescr:  -> ppp209,13
+ifAlias:  -> ppp17,13
+Fanspeed under threshold: 4275 rpm (< 4860 rpm),12
+ifDescr:  -> ppp274,12
+Fanspeed under threshold: 5115 rpm (< 5232 rpm),12
+Fanspeed under threshold: 4200 rpm (< 4860 rpm),12
+ifDescr:  -> ppp236,12
+Fanspeed under threshold: 4395 rpm (< 5232 rpm),12
+Fanspeed under threshold: 2721 rpm (< 2754.4 rpm),12
+STP designated root changed: 380e4daf0ab7 > 70db983252d7,12
+ifAlias:  -> ppp180,12
+STP designated root changed: 70db983252d7 > 380e4daf0ab7,12
+ifDescr:  -> ppp85,12
+Temperature above threshold: -20 °C (> -980 °C),12
+ifVlan:  -> 1,12
+ifAlias:  -> ppp274,12
+ifAlias:  -> ppp236,12
+ifDescr:  -> ppp180,12
+ifAlias:  -> ppp85,12
+Fanspeed under threshold: 4305 rpm (< 4860 rpm),11
+Fanspeed under threshold: 2753 rpm (< 2754.4 rpm),11
+ifDescr:  -> ppp315,11
+Fanspeed under threshold: 4395 rpm (< 4860 rpm),11
+Fanspeed under threshold: 2732 rpm (< 2754.4 rpm),11
+Fanspeed under threshold: 4680 rpm (< 5232 rpm),11
+ifAlias:  -> ppp290,11
+ifAlias:  -> ppp14,11
+Fanspeed under threshold: 4635 rpm (< 5232 rpm),11
+ifAlias:  -> ppp315,11
+ifDescr:  -> ppp14,11
+ifDescr:  -> ppp290,11
+ifAlias:  -> ppp130,10
+ifPhysAddress:  -> dc2c6e932881,10
+Fanspeed under threshold: 2748 rpm (< 2754.4 rpm),10
+Fanspeed under threshold: 4665 rpm (< 4860 rpm),10
+ifAlias:  -> ppp150,10
+Fanspeed under threshold: 4755 rpm (< 4860 rpm),10
+ifType: l2vlan -> NULL,10
+Voltage under threshold: 0 V (< 20.825 V),10
+Fanspeed under threshold: 5070 rpm (< 5232 rpm),10
+Fanspeed under threshold: 4875 rpm (< 5232 rpm),10
+Fanspeed under threshold: 4575 rpm (< 5232 rpm),10
+ifAlias:  -> ppp122,10
+ifAlias:  -> ppp225,10
+Fanspeed under threshold: 4515 rpm (< 5232 rpm),10
+dBm above threshold: 0 dBm (> -4.001 dBm),10
+ifDescr:  -> ppp343,10
+ifAlias:  -> ppp227,10
+ifDescr:  -> ppp227,10
+ifDescr:  -> ppp225,10
+ifDescr:  -> ppp150,10
+ifDescr:  -> ppp130,10
+ifDescr:  -> ppp122,10
+ifAlias:  -> ppp343,10
+ifMtu: 0 -> 1450,10
+ifAlias:  -> ppp186,9
+Fanspeed under threshold: 4665 rpm (< 5232 rpm),9
+ifAlias:  -> ppp318,9
+ifAlias:  -> ppp187,9
+ifDescr:  -> ppp6,9
+ifDescr:  -> ppp144,9
+ifAlias:  -> ppp222,9
+Fanspeed under threshold: 4380 rpm (< 4860 rpm),9
+Fanspeed under threshold: 2747 rpm (< 2754.4 rpm),9
+Fanspeed under threshold: 4590 rpm (< 4860 rpm),9
+ifDescr:  -> ppp34,9
+ifAlias:  -> ppp86,9
+Fanspeed under threshold: 2729 rpm (< 2754.4 rpm),9
+Temperature above threshold: -14 °C (> -980 °C),9
+Fanspeed under threshold: 4440 rpm (< 5232 rpm),9
+Fanspeed under threshold: 4230 rpm (< 4860 rpm),9
+ifDescr:  -> ppp86,9
+ifAlias:  -> ppp6,9
+Fanspeed under threshold: 2708 rpm (< 2754.4 rpm),9
+ifAlias:  -> ppp145,9
+ifAlias:  -> ppp144,9
+ifDescr:  -> ppp318,9
+ifAlias:  -> ppp34,9
+ifDescr:  -> ppp145,9
+Fanspeed under threshold: 2699 rpm (< 2754.4 rpm),9
+ifDescr:  -> ppp260,9
+Fanspeed under threshold: 2694 rpm (< 2754.4 rpm),9
+ifAlias:  -> ppp223,9
+Fanspeed under threshold: 2688 rpm (< 2754.4 rpm),9
+ifAlias:  -> ppp167,9
+ifDescr:  -> ppp186,9
+Fanspeed under threshold: 4965 rpm (< 5232 rpm),9
+ifDescr:  -> ppp223,9
+ifDescr:  -> ppp222,9
+Fanspeed under threshold: 2676 rpm (< 2754.4 rpm),9
+Fanspeed under threshold: 2716 rpm (< 2754.4 rpm),9
+ifDescr:  -> ppp167,9
+Fanspeed under threshold: 4845 rpm (< 4860 rpm),9
+Temperature above threshold: -18 °C (> -980 °C),9
+Fanspeed under threshold: 5160 rpm (< 5232 rpm),9
+ifAlias:  -> ppp260,9
+ifDescr:  -> ppp187,9
+Fanspeed under threshold: 2630 rpm (< 2754.4 rpm),9
+Fanspeed under threshold: 5055 rpm (< 5232 rpm),8
+ifAlias:  -> ppp116,8
+ifDescr:  -> ppp51,8
+ifDescr:  -> ppp204,8
+Fanspeed under threshold: 4920 rpm (< 5232 rpm),8
+ifAlias:  -> ppp352,8
+ifAlias:  -> ppp89,8
+ifSpeed: 4.29 Gbps -> 40 Gbps,8
+ifSpeed: 40 Gbps -> 4.29 Gbps,8
+ifAlias:  -> ppp255,8
+Fanspeed under threshold: 4425 rpm (< 4860 rpm),8
+Fanspeed under threshold: 2656 rpm (< 2754.4 rpm),8
+ifDescr:  -> ppp262,8
+ifAlias:  -> ppp243,8
+ifAlias:  -> ppp262,8
+ifDescr:  -> ppp116,8
+Fanspeed under threshold: 4260 rpm (< 4860 rpm),8
+Fanspeed above threshold: 6930 rpm (> 6750 rpm),8
+ifDescr:  -> ppp352,8
+ifDescr:  -> ppp42,8
+Fanspeed under threshold: 2679 rpm (< 2754.4 rpm),8
+Temperature above threshold: -19 °C (> -980 °C),8
+Fanspeed under threshold: 4470 rpm (< 5232 rpm),8
+ifAlias:  -> ppp51,8
+ifDescr:  -> ppp255,8
+ifDescr:  -> ppp243,8
+Fanspeed under threshold: 2700 rpm (< 2754.4 rpm),8
+Fanspeed under threshold: 2702 rpm (< 2754.4 rpm),8
+ifAlias:  -> ppp42,8
+ifDescr:  -> ppp89,8
+Fanspeed under threshold: 2726 rpm (< 2754.4 rpm),8
+Fanspeed under threshold: 2740 rpm (< 2754.4 rpm),8
+Fanspeed under threshold: 2743 rpm (< 2754.4 rpm),8
+Fanspeed under threshold: 4545 rpm (< 5232 rpm),8
+Fanspeed under threshold: 2749 rpm (< 2754.4 rpm),8
+ifPhysAddress: 48df3736ae7c -> NULL,8
+ifPhysAddress:  -> d80ae6b18e8c,8
+ifPhysAddress:  -> 48df3736ae7c,8
+ifAlias:  -> ppp204,8
+"BGP Session Flap: 117.103.68.1 (AS64555 ), last error: Reserved",7
+Fanspeed under threshold: 2746 rpm (< 2754.4 rpm),7
+ifAlias:  -> ppp291,7
+ifAlias:  -> ppp129,7
+Temperature above threshold: -33 °C (> -980 °C),7
+Fanspeed under threshold: 4575 rpm (< 4860 rpm),7
+Fanspeed under threshold: 4410 rpm (< 4860 rpm),7
+Fanspeed under threshold: 4560 rpm (< 5232 rpm),7
+ifAlias:  -> ppp247,7
+Fanspeed under threshold: 4035 rpm (< 4860 rpm),7
+Fanspeed under threshold: 4560 rpm (< 4860 rpm),7
+Fanspeed under threshold: 4785 rpm (< 4860 rpm),7
+ifDescr:  -> ppp354,7
+Temperature under threshold: 0 °C (< 44 °C),7
+Fanspeed under threshold: 4215 rpm (< 4860 rpm),7
+Voltage under threshold: 0 V (< 3 V),7
+Fanspeed under threshold: 4740 rpm (< 4860 rpm),7
+Fanspeed under threshold: 4500 rpm (< 5232 rpm),7
+ifAlias:  -> ppp246,7
+ifAlias:  -> ppp354,7
+ifDescr:  -> ppp246,7
+Fanspeed under threshold: 2696 rpm (< 2754.4 rpm),7
+ifAlias:  -> ppp339,7
+ifDescr:  -> ppp247,7
+Fanspeed under threshold: 4620 rpm (< 4860 rpm),7
+Fanspeed under threshold: 2717 rpm (< 2754.4 rpm),7
+ifDescr:  -> ppp129,7
+Fanspeed under threshold: 2725 rpm (< 2754.4 rpm),7
+ifAlias:  -> ppp139,7
+Fanspeed under threshold: 2727 rpm (< 2754.4 rpm),7
+Fanspeed under threshold: 2651 rpm (< 2754.4 rpm),7
+Fanspeed under threshold: 2728 rpm (< 2754.4 rpm),7
+Fanspeed under threshold: 2733 rpm (< 2754.4 rpm),7
+ifDescr:  -> ppp339,7
+ifDescr:  -> ppp139,7
+Fanspeed under threshold: 2745 rpm (< 2754.4 rpm),7
+ifDescr:  -> ppp291,7
+Temperature above threshold: 65 °C (> 63 °C),6
+Fanspeed under threshold: 4335 rpm (< 4860 rpm),6
+ifAdminStatus: down -> up,6
+ifSpeed: 25 Gbps -> 1 Gbps,6
+ifDescr:  -> ppp370,6
+ifDescr:  -> ppp360,6
+ifAlias:  -> ppp386,6
+Temperature under threshold: 0 °C (< 35 °C),6
+ifAlias:  -> ppp44,6
+Temperature under threshold: 24 °C (< 25 °C),6
+Fanspeed under threshold: 4500 rpm (< 4860 rpm),6
+ifSpeed: 1 Gbps -> 25 Gbps,6
+ifAlias:  -> ppp370,6
+ifAlias:  -> ppp174,6
+Fanspeed under threshold: 4530 rpm (< 5232 rpm),6
+ifSpeed: 0 bps -> 0 bps,6
+STP root port changed: 4116 > 0,6
+ifDescr:  -> ppp68,6
+Fanspeed under threshold: 2646 rpm (< 2754.4 rpm),6
+ifDescr:  -> ppp44,6
+ifDescr:  -> ppp119,6
+ifDescr:  -> ppp7,6
+ifDescr:  -> ppp216,6
+ifAlias:  -> ppp68,6
+ifDescr:  -> ppp293,6
+Fanspeed under threshold: 2665 rpm (< 2754.4 rpm),6
+ifAlias:  -> ppp7,6
+ifAlias:  -> ppp216,6
+ifAlias:  -> ppp293,6
+Fanspeed under threshold: 2678 rpm (< 2754.4 rpm),6
+ifAlias:  -> ppp292,6
+ifDescr:  -> ppp248,6
+Fanspeed under threshold: 2684 rpm (< 2754.4 rpm),6
+ifAlias:  -> ppp275,6
+Fanspeed under threshold: 2629 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2703 rpm (< 2754.4 rpm),6
+Temperature above threshold: -17 °C (> -980 °C),6
+ifDescr:  -> ppp174,6
+Fanspeed under threshold: 4650 rpm (< 5232 rpm),6
+STP root port changed: 0 > 4116,6
+Fanspeed under threshold: 2737 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2738 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2739 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2635 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 4710 rpm (< 4860 rpm),6
+Fanspeed under threshold: 2692 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2623 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2715 rpm (< 2754.4 rpm),6
+ifAlias:  -> ppp248,6
+Temperature above threshold: -12 °C (> -980 °C),6
+ifAlias:  -> ppp119,6
+Fanspeed under threshold: 4290 rpm (< 4860 rpm),6
+ifAlias:  -> ppp360,6
+ifDescr:  -> ppp275,6
+Fanspeed under threshold: 2591 rpm (< 2754.4 rpm),6
+Fanspeed under threshold: 2754 rpm (< 2754.4 rpm),6
+ifDescr:  -> ppp292,6
+Fanspeed under threshold: 4605 rpm (< 5232 rpm),6
+ifDescr:  -> ppp386,6
+Fanspeed under threshold: 2624 rpm (< 2754.4 rpm),6
+ifAlias:  -> ppp115,5
+Fanspeed under threshold: 2641 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2560 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2562 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2565 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2645 rpm (< 2754.4 rpm),5
+ifDescr:  -> ppp242,5
+Sensor Added: state diskSmartInfo diskSmartInfo.2 Disk 2,5
+ifDescr:  -> ppp239,5
+Sensor Added: current routeros mtxrGaugeCurrent.18 current,5
+Sensor Added: temperature routeros mtxrGaugeTemperature.14 temperature,5
+Fanspeed under threshold: 2570 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 5100 rpm (< 5232 rpm),5
+Fanspeed under threshold: 2653 rpm (< 2754.4 rpm),5
+Sensor Added: temperature routeros mtxrGaugeTemperature.17 cpu-temperature,5
+ifDescr:  -> ppp115,5
+Sensor Added: state diskSmartInfo diskSmartInfo.1 Disk 1,5
+Fanspeed under threshold: 2657 rpm (< 2754.4 rpm),5
+ifDescr:  -> ppp226,5
+Fanspeed under threshold: 2659 rpm (< 2754.4 rpm),5
+Sensor Added: temperature routeros mtxrOpticalTemperature.1 sfp-sfpplus1-Nex1/3/2,5
+Sensor Added: power routeros mtxrGaugePower.16 power-consumption,5
+ifAlias:  -> ppp269,5
+Fanspeed under threshold: 2663 rpm (< 2754.4 rpm),5
+Sensor Added: state mtxrOpticalTxFault mtxrOpticalTxFault.1 sfp-sfpplus1-Nex1/3/2 Tx,5
+Fanspeed above threshold: 6600 rpm (> 6480 rpm),5
+ifDescr:  -> ppp224,5
+Fanspeed above threshold: 6780 rpm (> 6750 rpm),5
+Sensor Added: fanspeed routeros mtxrGuageFanspeed.7001 fan1-speed,5
+ifDescr:  -> ppp10,5
+Fanspeed under threshold: 2670 rpm (< 2754.4 rpm),5
+Temperature above threshold: -22 °C (> -980 °C),5
+Fanspeed under threshold: 2579 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2674 rpm (< 2754.4 rpm),5
+ifAlias:  -> ppp10,5
+ifAlias:  -> ppp30,5
+Sensor Added: voltage routeros 0 Voltage 0,5
+ifDescr:  -> ppp221,5
+ifSpeed: 10 Gbps -> 20 Gbps,5
+Sensor Added: voltage routeros mtxrGaugeVoltage.13 voltage,5
+Sensor Added: voltage routeros mtxrOpticalSupplyVoltage.1 sfp-sfpplus1-Nex1/3/2,5
+ifPhysAddress: 085531056908 -> 085531056905,5
+ifAlias:  -> ppp192,5
+Fanspeed under threshold: 4590 rpm (< 5232 rpm),5
+Temperature above threshold: -16 °C (> -980 °C),5
+ifAlias: test -> et-0/0/3,5
+ifAlias:  -> ppp202,5
+ifDescr:  -> ppp202,5
+ifAlias: test -> et-0/0/2,5
+ifAlias: Upstream -> et-0/0/0,5
+Fanspeed under threshold: 5175 rpm (< 5232 rpm),5
+ifAlias:  -> ppp221,5
+Fanspeed under threshold: 4710 rpm (< 5232 rpm),5
+ifDescr:  -> ppp192,5
+Fanspeed under threshold: 2695 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 4755 rpm (< 5232 rpm),5
+ifAlias:  -> ppp314,5
+Fanspeed under threshold: 2698 rpm (< 2754.4 rpm),5
+ifAlias:  -> ppp239,5
+Sensor Added: state mtxrOpticalRxLoss mtxrOpticalRxLoss.1 sfp-sfpplus1-Nex1/3/2 Rx,5
+Sensor Added: dbm routeros mtxrOpticalTxPower.1 sfp-sfpplus1-Nex1/3/2 Tx,5
+ifAlias:  -> ppp382,5
+Fanspeed under threshold: 5205 rpm (< 5232 rpm),5
+ifAlias: ODIX -> et-0/0/0.303,5
+ifAlias:  -> ppp383,5
+Fanspeed under threshold: 2706 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2707 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2600 rpm (< 2754.4 rpm),5
+ifAlias: MVNET-IPTLITE -> et-0/0/0.3704,5
+Sensor Added: dbm routeros mtxrOpticalRxPower.1 sfp-sfpplus1-Nex1/3/2 Rx,5
+Fanspeed under threshold: 2601 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2712 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2666 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 4785 rpm (< 5232 rpm),5
+Fanspeed under threshold: 4800 rpm (< 4860 rpm),5
+Fanspeed under threshold: 5220 rpm (< 5232 rpm),5
+Fanspeed under threshold: 4815 rpm (< 4860 rpm),5
+Fanspeed under threshold: 4830 rpm (< 5232 rpm),5
+Sensor Added: temperature qnap diskTemperture.1 Disk 1 Seagate ST10000VN000-3AK101 (SATA),5
+Fanspeed under threshold: 2720 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2618 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2722 rpm (< 2754.4 rpm),5
+ifAlias: MVIXPLUS -> et-0/0/0.2706,5
+ifAlias: KaptenJalantra -> et-0/0/1.2143,5
+Fanspeed under threshold: 2611 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 4860 rpm (< 5232 rpm),5
+ifAlias:  -> ppp224,5
+ifAlias:  -> ppp226,5
+Fanspeed under threshold: 2499 rpm (< 2754.4 rpm),5
+ifAlias: KaptenBatu -> et-0/0/1.2144,5
+ifAlias:  -> ppp242,5
+Sensor Added: state mtxrGaugeStatus 7402 psu2-state,5
+ifAlias: Downstream -> et-0/0/1,5
+ifDescr:  -> ppp383,5
+Sensor Added: current routeros mtxrOpticalTxBiasCurrent.1 sfp-sfpplus1-Nex1/3/2 Tx Bias,5
+Sensor Added: temperature qnap diskTemperture.2 Disk 2 Seagate ST10000VN000-3AK101 (SATA),5
+ifDescr:  -> ppp382,5
+Fanspeed under threshold: 2642 rpm (< 2754.4 rpm),5
+Sensor Added: state mtxrGaugeStatus 7401 psu1-state,5
+ifAlias: CCR2216-MLG-VIA-GIT -> et-0/0/1.1707,5
+ifAlias:  -> ppp294,5
+Fanspeed under threshold: 2625 rpm (< 2754.4 rpm),5
+ifAlias: CCR2216-MLG -> et-0/0/1.2142,5
+Fanspeed under threshold: 2626 rpm (< 2754.4 rpm),5
+Sensor Added: temperature qnap systemPowerTemp.1 Enclosure 0 PSU {{ $systemPowerID}},5
+Fanspeed under threshold: 2628 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 5010 rpm (< 5232 rpm),5
+ifDescr:  -> ppp314,5
+Sensor Added: temperature qnap systemPowerTemp.2 Enclosure 0 PSU {{ $systemPowerID}},5
+Sensor Added: temperature qnap systemPowerTemp.3 Enclosure 32 PSU {{ $systemPowerID}},5
+ifDescr:  -> ppp30,5
+ifDescr:  -> ppp294,5
+ifDescr:  -> ppp269,5
+Fanspeed under threshold: 2636 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2637 rpm (< 2754.4 rpm),5
+Fanspeed under threshold: 2555 rpm (< 2754.4 rpm),5
+Sensor Added: temperature qnap systemPowerTemp.4 Enclosure 33 PSU {{ $systemPowerID}},5
+Fanspeed under threshold: 4245 rpm (< 4860 rpm),5
+Fanspeed under threshold: 2713 rpm (< 2754.4 rpm),5
+ifDescr: GG2 indomaret -> gpon_1/5/13,4
+ifDescr: Hongrie Yong Tambayong Jl.danau Paniai H4c3 6285198197562 -> gpon_1/4/10,4
+ifDescr: Jayus sanuba Jl.Wendit Barat 6285185577756 -> gpon_1/5/16,4
+ifDescr: Jl Raya Ki Ageng Gribig Gg 2 No 45B -> gpon_1/4/12,4
+ifDescr: Jl Raya Ki Ageng Gribig Gg 2 No 45B -> gpon_1/5/3,4
+ifDescr: Pertigaan SMK6 -> gpon_1/5/10,4
+ifDescr: gpon_1/4/10 -> Hongrie Yong Tambayong Jl.danau Paniai H4c3 6285198197562,4
+ifDescr: gpon_1/4/12 -> Jl Raya Ki Ageng Gribig Gg 2 No 45B,4
+ifDescr: gpon_1/5/10 -> Pertigaan SMK6,4
+ifSpeed: 20 Gbps -> 10 Gbps,4
+ifSpeed: 20 Gbps -> 100 Mbps,4
+ifDescr: gpon_1/5/13 -> GG2 indomaret,4
+ifDescr: gpon_1/5/16 -> Jayus sanuba Jl.Wendit Barat 6285185577756,4
+ifDescr: gpon_1/5/3 -> Jl Raya Ki Ageng Gribig Gg 2 No 45B,4
+Fanspeed under threshold: 4695 rpm (< 5232 rpm),4
+Fanspeed under threshold: 4680 rpm (< 4860 rpm),4
+Fanspeed under threshold: 4650 rpm (< 4860 rpm),4
+Fanspeed under threshold: 4605 rpm (< 4860 rpm),4
+ifPhysAddress:  -> 48df3736ae7d,4
+ifPhysAddress: 48df3736ae7d -> NULL,4
+ifSpeed: 1 Gbps -> 0 bps,4
+Fanspeed under threshold: 4530 rpm (< 4860 rpm),4
+Fanspeed under threshold: 4485 rpm (< 5232 rpm),4
+Fanspeed under threshold: 4485 rpm (< 4860 rpm),4
+Fanspeed above threshold: 6930 rpm (> 6804 rpm),4
+ifType: ppp -> NULL,4
+Fanspeed under threshold: 4470 rpm (< 4860 rpm),4
+ifAlias:  -> ppp367,4
+Voltage under threshold: 0 V (< 2.82795 V),4
+Voltage under threshold: 0 V (< 20.91 V),4
+ifAlias:  -> ppp175,4
+ifAlias:  -> ppp376,4
+ifAlias:  -> ppp377,4
+ifAlias:  -> ppp199,4
+ifAlias:  -> ppp210,4
+ifAlias:  -> ppp384,4
+ifAlias:  -> ppp220,4
+Fanspeed under threshold: 2477 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2502 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2527 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2534 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2558 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2575 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2577 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2581 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2587 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2592 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2594 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2596 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2597 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2599 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2606 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2608 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2620 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2627 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2631 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2632 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2639 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2650 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2654 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2660 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2661 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2664 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2668 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2671 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2673 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2677 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2680 rpm (< 2754.4 rpm),4
+ifAlias:  -> ppp389,4
+Fanspeed under threshold: 2682 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2687 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2691 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2693 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2697 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2701 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2705 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2710 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2711 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2718 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2719 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2735 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2736 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2742 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 2750 rpm (< 2754.4 rpm),4
+Fanspeed under threshold: 4320 rpm (< 4860 rpm),4
+Fanspeed under threshold: 4455 rpm (< 4860 rpm),4
+ifAlias:  -> ppp108,4
+ifAlias:  -> ppp295,4
+ifAlias:  -> ppp350,4
+ifAlias:  -> ppp126,4
+ifAlias:  -> ppp29,4
+ifAlias:  -> ppp327,4
+ifAlias:  -> ppp305,4
+STP topology changed after: 1 week 4 days 12 hours 38 minutes,4
+STP topology changed after: 22 minutes 35 seconds,4
+ifAlias:  -> ppp340,4
+ifAlias:  -> ppp138,4
+Temperature above threshold: -15 °C (> -980 °C),4
+Temperature above threshold: -27 °C (> -980 °C),4
+ifAlias:  -> ppp359,4
+ifAlias:  -> ppp285,4
+ifAlias: et-0/0/0 -> Upstream,4
+ifAlias: et-0/0/0.2706 -> MVIXPLUS,4
+ifAlias: et-0/0/0.303 -> ODIX,4
+ifAlias: et-0/0/0.3704 -> MVNET-IPTLITE,4
+ifAlias: et-0/0/1 -> Downstream,4
+ifAlias: et-0/0/1.1707 -> CCR2216-MLG-VIA-GIT,4
+ifAlias: et-0/0/1.2142 -> CCR2216-MLG,4
+ifAlias: et-0/0/1.2143 -> KaptenJalantra,4
+ifAlias: et-0/0/1.2144 -> KaptenBatu,4
+ifAlias: et-0/0/2 -> test,4
+ifAlias: et-0/0/3 -> test,4
+ifDescr:  -> ppp108,4
+ifAlias:  -> ppp263,4
+ifDescr:  -> ppp126,4
+ifDescr:  -> ppp138,4
+ifDescr:  -> ppp175,4
+ifDescr:  -> ppp199,4
+ifDescr:  -> ppp210,4
+ifDescr:  -> ppp220,4
+Sensor Added: state hdStatus hdStatus.1 Disk 1,4
+ifDescr:  -> ppp253,4
+ifDescr:  -> ppp263,4
+Sensor Added: state hdStatus hdStatus.2 Disk 2,4
+ifDescr:  -> ppp285,4
+ifDescr:  -> ppp29,4
+ifDescr:  -> ppp295,4
+Fanspeed under threshold: 5025 rpm (< 5232 rpm),4
+ifDescr:  -> ppp305,4
+Sensor Added: state hdStatus hdStatus.3 Disk 3,4
+ifDescr:  -> ppp327,4
+ifAlias:  -> ppp253,4
+Sensor Added: state hdStatus hdStatus.4 Disk 4,4
+ifDescr:  -> ppp340,4
+ifDescr:  -> ppp350,4
+ifDescr:  -> ppp359,4
+ifDescr:  -> ppp367,4
+ifDescr:  -> ppp376,4
+ifDescr:  -> ppp377,4
+ifDescr:  -> ppp384,4
+ifDescr:  -> ppp389,4
+Fanspeed under threshold: 4950 rpm (< 5232 rpm),4
+Fanspeed under threshold: 4845 rpm (< 5232 rpm),4
+Fanspeed under threshold: 4830 rpm (< 4860 rpm),4
+Fanspeed under threshold: 4740 rpm (< 5232 rpm),4
+ifDescr:  -> ppp135,3
+ifAlias:  -> ppp128,3
+Temperature above threshold: 63 °C (> 49 °C),3
+ifDescr:  -> ppp270,3
+Fanspeed under threshold: 2521 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2583 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp218,3
+Current under threshold: 0 A (< 0.001 A),3
+Temperature under threshold: 0 °C (< 21 °C),3
+ifTrunk:  -> dot1Q,3
+Fanspeed under threshold: 2563 rpm (< 2754.4 rpm),3
+Temperature under threshold: 0 °C (< 22 °C),3
+Fanspeed under threshold: 2561 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp273,3
+ifDescr:  -> ppp156,3
+Fanspeed under threshold: 2580 rpm (< 2754.4 rpm),3
+Temperature under threshold: 0 °C (< 25 °C),3
+Fanspeed under threshold: 2578 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp163,3
+Fanspeed above threshold: 6870 rpm (> 6480 rpm),3
+Fanspeed under threshold: 2576 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp265,3
+ifAlias:  -> ppp163,3
+Fanspeed under threshold: 0 rpm (< 4528 rpm),3
+Fanspeed under threshold: 2573 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2613 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp280,3
+Fanspeed under threshold: 2557 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2744 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2741 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2734 rpm (< 2754.4 rpm),3
+ifAlias: GG2 indomaret -> gpon_1/5/13,3
+ifAlias: Hongrie Yong Tambayong Jl.danau Paniai H4c3 6285198197562 -> gpon_1/4/10,3
+ifAlias: Jayus sanuba Jl.Wendit Barat 6285185577756 -> gpon_1/5/16,3
+ifAlias: Jl Raya Ki Ageng Gribig Gg 2 No 45B -> gpon_1/4/12,3
+ifAlias: Jl Raya Ki Ageng Gribig Gg 2 No 45B -> gpon_1/5/3,3
+Fanspeed under threshold: 2612 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2724 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2723 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2709 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2704 rpm (< 2754.4 rpm),3
+ifAlias: Pertigaan SMK6 -> gpon_1/5/10,3
+ifAlias:  -> ppp322,3
+ifAlias:  -> ppp135,3
+ifAlias:  -> ppp326,3
+ifAlias:  -> ppp333,3
+ifAlias:  -> ppp394,3
+ifAlias:  -> ppp125,3
+ifAlias:  -> ppp241,3
+Fanspeed under threshold: 2571 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2604 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp184,3
+ifAlias:  -> ppp156,3
+ifDescr:  -> ppp254,3
+ifDescr:  -> ppp266,3
+ifAlias: gpon_1/4/10 -> Hongrie Yong Tambayong Jl.danau Paniai H4c3 6285198197562,3
+ifAlias: gpon_1/4/12 -> Jl Raya Ki Ageng Gribig Gg 2 No 45B,3
+ifAlias: gpon_1/5/10 -> Pertigaan SMK6,3
+ifAlias: gpon_1/5/13 -> GG2 indomaret,3
+ifAlias: gpon_1/5/16 -> Jayus sanuba Jl.Wendit Barat 6285185577756,3
+ifAlias: gpon_1/5/3 -> Jl Raya Ki Ageng Gribig Gg 2 No 45B,3
+Fanspeed under threshold: 2689 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2686 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp232,3
+ifDescr:  -> ppp267,3
+ifDescr:  -> ppp235,3
+Fanspeed under threshold: 2548 rpm (< 2754.4 rpm),3
+ifAlias:  -> <sstp-bandung-1>,3
+ifDescr:  -> ppp191,3
+Fanspeed under threshold: 2685 rpm (< 2754.4 rpm),3
+ifDescr:  -> <sstp-bandung-1>,3
+Fanspeed under threshold: 2552 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2683 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2675 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2669 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp273,3
+Fanspeed under threshold: 2667 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp270,3
+ifDescr:  -> ppp193,3
+Fanspeed under threshold: 2567 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp79,3
+Fanspeed under threshold: 2547 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp267,3
+Fanspeed under threshold: 2550 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp111,3
+ifAlias:  -> ppp266,3
+Fanspeed under threshold: 2655 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2652 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp117,3
+ifAlias:  -> ppp265,3
+Fanspeed under threshold: 2649 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp241,3
+ifAlias:  -> ppp64,3
+Fanspeed under threshold: 2648 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp203,3
+ifDescr:  -> ppp125,3
+Sensor Added: fanspeed qnap systemFanSpeed.1 FAN 1,3
+Fanspeed under threshold: 2588 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp128,3
+Fanspeed under threshold: 2644 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2566 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp207,3
+Fanspeed under threshold: 2586 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2640 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2585 rpm (< 2754.4 rpm),3
+Sensor Added: fanspeed qnap systemFanSpeed.2 FAN 2,3
+Fanspeed under threshold: 2638 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2633 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 5130 rpm (< 5232 rpm),3
+ifAlias:  -> ppp254,3
+ifDescr:  -> ppp280,3
+ifAlias:  -> ppp353,3
+ifAlias:  -> ppp235,3
+ifAlias:  -> ppp117,3
+Fanspeed under threshold: 2541 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp232,3
+ifDescr:  -> ppp299,3
+ifAlias:  -> ppp111,3
+Fanspeed under threshold: 2530 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2528 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp322,3
+ifDescr:  -> ppp326,3
+ifAlias:  -> ppp356,3
+ifDescr:  -> ppp329,3
+ifDescr:  -> ppp333,3
+Fanspeed under threshold: 2523 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 4980 rpm (< 5232 rpm),3
+Temperature above threshold: -11 °C (> -980 °C),3
+ifDescr:  -> ppp353,3
+Fanspeed under threshold: 2520 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp356,3
+Fanspeed under threshold: 2517 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 2514 rpm (< 2754.4 rpm),3
+Temperature above threshold: -13 °C (> -980 °C),3
+ifDescr:  -> ppp372,3
+ifAlias:  -> ppp329,3
+ifDescr:  -> ppp379,3
+ifDescr:  -> ppp38,3
+ifDescr:  -> ppp385,3
+ifDescr:  -> ppp390,3
+ifDescr:  -> ppp394,3
+ifAlias:  -> ppp390,3
+ifAlias:  -> ppp299,3
+Fanspeed under threshold: 2489 rpm (< 2754.4 rpm),3
+Fanspeed under threshold: 4905 rpm (< 5232 rpm),3
+Fanspeed under threshold: 4890 rpm (< 5232 rpm),3
+ifDescr:  -> ppp64,3
+Fanspeed under threshold: 4620 rpm (< 5232 rpm),3
+ifAlias:  -> ppp218,3
+ifAlias:  -> ppp385,3
+Fanspeed under threshold: 2466 rpm (< 2754.4 rpm),3
+ifDescr:  -> ppp75,3
+ifDescr:  -> ppp79,3
+Fanspeed under threshold: 2459 rpm (< 2754.4 rpm),3
+Sensor Added: state systemFanStatus systemFanStatus.2 FAN 2,3
+Fanspeed under threshold: 4725 rpm (< 5232 rpm),3
+Sensor Added: state systemFanStatus systemFanStatus.1 FAN 1,3
+Temperature above threshold: -26 °C (> -980 °C),3
+ifAlias:  -> ppp75,3
+ifAlias:  -> ppp207,3
+ifAlias:  -> ppp203,3
+ifAlias:  -> ppp38,3
+ifAlias:  -> ppp379,3
+ifMtu: 1492 -> NULL,3
+ifName:  -> ppp300,3
+ifName:  -> ppp5,3
+ifAlias:  -> ppp193,3
+ifAlias:  -> ppp191,3
+Temperature above threshold: 0 °C (> -980 °C),3
+ifPhysAddress:  -> 7cfe90b0c421,3
+ifAlias:  -> ppp184,3
+Fanspeed under threshold: 2344 rpm (< 2754.4 rpm),3
+ifAlias:  -> ppp372,3
+Fanspeed under threshold: 4545 rpm (< 4860 rpm),3
+ifSpeed: 0 bps -> 100 Mbps,3
+Fanspeed under threshold: 2751 rpm (< 2754.4 rpm),3
+ifSpeed: 1 Gbps -> 10 Gbps,3
+dBm above threshold: 0 dBm (> -1.001 dBm),3
+ifSpeed: 100 Mbps -> 10 Gbps,3
+ifSpeed: 100 Mbps -> 20 Gbps,3
+Voltage under threshold: 0 V (< 44.4448 V),3
+Voltage under threshold: 0 V (< 2.97 V),3
+Temperature under threshold: 30 °C (< 33 °C),3
+ifDescr:  -> ppp211,2
+ifDescr:  -> ppp219,2
+ifAlias:  -> ppp344,2
+Fanspeed under threshold: 2582 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2574 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp237,2
+ifDescr:  -> ppp228,2
+ifDescr:  -> ppp230,2
+ifDescr:  -> ppp231,2
+ifDescr:  -> ppp233,2
+Fanspeed under threshold: 2569 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp237,2
+ifDescr:  -> ppp24,2
+ifAlias:  -> ppp127,2
+Fanspeed under threshold: 2564 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2559 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp25,2
+Fanspeed under threshold: 2554 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2553 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp259,2
+Fanspeed under threshold: 2551 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp88,2
+ifDescr:  -> ppp264,2
+Fanspeed under threshold: 2549 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp321,2
+ifDescr:  -> ppp276,2
+Temperature above threshold: 61 °C (> 49 °C),2
+Temperature above threshold: 62 °C (> 49 °C),2
+"BGP Session Flap: 103.215.176.94 (AS147094 ), last error: Reserved",2
+Temperature above threshold: 66 °C (> 63 °C),2
+BGP Session Up: 10.246.15.18 (AS5212 ),2
+Temperature under threshold: -1000 °C (< 10 °C),2
+Fanspeed under threshold: 2544 rpm (< 2754.4 rpm),2
+ifType:  -> bridge,2
+ifAlias:  -> ppp233,2
+Fanspeed under threshold: 2537 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp365,2
+ifDescr:  -> ppp171,2
+ifDescr:  -> ppp297,2
+ifDescr:  -> ppp298,2
+Device status changed to Up from  check.,2
+Device type: network,2
+Fanspeed under threshold: 2535 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2533 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp302,2
+ifDescr:  -> ppp303,2
+ifDescr:  -> ppp304,2
+ifAlias:  -> ppp110,2
+ifAlias:  -> ppp355,2
+ifDescr:  -> ppp31,2
+ifDescr:  -> ppp312,2
+ifAlias:  -> ppp231,2
+ifAlias:  -> ppp230,2
+Fanspeed above threshold: 4300 rpm (> 4140 rpm),2
+Fanspeed above threshold: 6720 rpm (> 6480 rpm),2
+ifDescr:  -> ppp319,2
+ifDescr:  -> ppp321,2
+Fanspeed above threshold: 6840 rpm (> 6480 rpm),2
+ifDescr:  -> ppp324,2
+ifDescr:  -> ppp325,2
+Fanspeed above threshold: 6870 rpm (> 6750 rpm),2
+Fanspeed above threshold: 6900 rpm (> 6750 rpm),2
+ifAlias:  -> ppp142,2
+ifAlias:  -> ppp157,2
+ifAlias:  -> ppp143,2
+ifAlias:  -> ppp362,2
+ifDescr:  -> ppp336,2
+ifDescr:  -> ppp337,2
+Fanspeed under threshold: 2526 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2525 rpm (< 2754.4 rpm),2
+Temperature above threshold: -10 °C (> -980 °C),2
+Fanspeed under threshold: 2524 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp342,2
+ifAlias: BGP -> ether17-Nexxxx,2
+ifDescr:  -> ppp344,2
+Fanspeed under threshold: 2731 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2690 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2522 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp277,2
+STP designated root changed: 3cc786244610 > 50464a704831,2
+ifAlias:  -> ppp319,2
+ifDescr:  -> ppp355,2
+ifAlias:  -> ppp336,2
+ifAlias:  -> ppp406,2
+ifAlias:  -> ppp337,2
+ifAlias:  -> ppp31,2
+ifDescr:  -> ppp362,2
+ifDescr:  -> ppp365,2
+ifAlias:  -> ppp325,2
+ifAlias:  -> ppp228,2
+ifAlias:  -> ppp312,2
+ifAlias:  -> ppp109,2
+ifAlias: ether17-Nexxxx -> BGP,2
+ifAlias:  -> ppp399,2
+ifAlias:  -> ppp277,2
+Fanspeed under threshold: 2512 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2511 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp297,2
+ifAlias:  -> ppp276,2
+Fanspeed under threshold: 2510 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp298,2
+Fanspeed under threshold: 2507 rpm (< 2754.4 rpm),2
+ifConnectorPresent: false -> true,2
+ifDescr:  -> <pptp-RemoteMLGPAS2>,2
+ifDescr:  -> ppp395,2
+ifDescr:  -> ppp399,2
+ifAlias:  -> ppp66,2
+ifDescr:  -> ppp40,2
+ifDescr:  -> ppp401,2
+ifDescr:  -> ppp404,2
+ifDescr:  -> ppp405,2
+ifDescr:  -> ppp406,2
+ifDescr:  -> ppp407,2
+Fanspeed under threshold: 2506 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2504 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp25,2
+Fanspeed under threshold: 2503 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2500 rpm (< 2754.4 rpm),2
+ifAlias:  -> <pptp-RemoteMLGPAS2>,2
+Fanspeed under threshold: 2662 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2494 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2658 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2488 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp109,2
+ifDescr:  -> ppp110,2
+Fanspeed under threshold: 2486 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2485 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp407,2
+Fanspeed under threshold: 2484 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2481 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp219,2
+ifAlias:  -> ppp264,2
+ifAlias:  -> ppp304,2
+ifDescr:  -> ppp66,2
+Fanspeed under threshold: 4815 rpm (< 5232 rpm),2
+Fanspeed under threshold: 2647 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp127,2
+Fanspeed under threshold: 2643 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2462 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 4800 rpm (< 5232 rpm),2
+Fanspeed under threshold: 2465 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp395,2
+Fanspeed under threshold: 2460 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp324,2
+Fanspeed under threshold: 4770 rpm (< 5232 rpm),2
+Fanspeed under threshold: 4770 rpm (< 4860 rpm),2
+Fanspeed under threshold: 2458 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2453 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp211,2
+ifDescr:  -> ppp88,2
+Fanspeed under threshold: 2448 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2445 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2443 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp142,2
+ifDescr:  -> ppp93,2
+Fanspeed under threshold: 2442 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp143,2
+Fanspeed under threshold: 4725 rpm (< 4860 rpm),2
+Fanspeed under threshold: 2440 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2622 rpm (< 2754.4 rpm),2
+Temperature above threshold: -23 °C (> -980 °C),2
+Temperature above threshold: -24 °C (> -980 °C),2
+Sensor Added: state raidStatus raidStatus.2 DataVol2 Raid Single,2
+Fanspeed under threshold: 2621 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp405,2
+Temperature above threshold: -28 °C (> -980 °C),2
+Sensor Added: state raidStatus raidStatus.1 DataVol1 Raid Single,2
+ifAlias:  -> ppp404,2
+Fanspeed under threshold: 4440 rpm (< 4860 rpm),2
+Fanspeed under threshold: 4350 rpm (< 4860 rpm),2
+ifDescr:  -> ppp149,2
+Fanspeed under threshold: 2437 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp149,2
+ifDescr:  -> ppp15,2
+ifAlias:  -> ppp93,2
+ifAlias:  -> ppp15,2
+ifAlias:  -> ppp205,2
+ifMtu:  -> 1458,2
+Fanspeed under threshold: 2426 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2619 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2752 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp259,2
+ifDescr:  -> ppp154,2
+ifDescr:  -> ppp157,2
+Fanspeed under threshold: 2584 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp196,2
+ifName:  -> ppp100,2
+ifName:  -> ppp28,2
+1 -> 1,2
+Fanspeed under threshold: 2615 rpm (< 2754.4 rpm),2
+ifName:  -> ppp55,2
+ifAlias:  -> ppp195,2
+Temperature above threshold: -8 °C (> -980 °C),2
+Fanspeed under threshold: 2614 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp169,2
+Fanspeed under threshold: 2395 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2394 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp190,2
+ifPhysAddress:  -> 085531056905,2
+ifPhysAddress:  -> 488f5a8becdf,2
+ifAlias:  -> ppp189,2
+ifDescr:  -> ppp172,2
+ifPhysAddress:  -> 7cfe90b0c420,2
+ifDescr:  -> ppp179,2
+ifAlias:  -> ppp188,2
+Fanspeed under threshold: 2605 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp179,2
+ifAlias:  -> ppp24,2
+Fanspeed under threshold: 2343 rpm (< 2754.4 rpm),2
+STP designated root changed: 50464a704831 > 0cc6ccf90a71,2
+ifPhysAddress: 70db98325306 -> 000000000000,2
+dBm under threshold: -40 dBm (< -18.39 dBm),2
+Fanspeed under threshold: 2602 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp188,2
+ifDescr:  -> ppp189,2
+Fanspeed under threshold: 2332 rpm (< 2754.4 rpm),2
+Fanspeed under threshold: 2598 rpm (< 2754.4 rpm),2
+ifDescr:  -> ppp190,2
+ifAlias:  -> ppp172,2
+Temperature above threshold: 49 °C (> 46 °C),2
+ifSpeed: 10 Gbps -> 100 Mbps,2
+ifAlias:  -> ppp171,2
+ifAlias:  -> ppp303,2
+Fanspeed under threshold: 2593 rpm (< 2754.4 rpm),2
+Voltage under threshold: 0 V (< 45.0772 V),2
+ifSpeed: 100 Mbps -> 0 bps,2
+ifDescr:  -> ppp195,2
+ifDescr:  -> ppp196,2
+ifAlias:  -> ppp342,2
+ifAlias:  -> ppp169,2
+ifAlias:  -> ppp401,2
+ifAlias:  -> ppp154,2
+Fanspeed under threshold: 2590 rpm (< 2754.4 rpm),2
+ifAlias:  -> ppp40,2
+Voltage under threshold: 0 V (< 2.82625 V),2
+ifDescr:  -> ppp205,2
+ifAlias:  -> ppp302,2
+ifAlias:  -> <pptp-RemoteMLGPAS2-62>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-63>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-64>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-65>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-66>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-67>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-68>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-69>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-6>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-70>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-71>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-72>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-73>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-74>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-75>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-76>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-77>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-78>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-79>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-7>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-80>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-81>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-82>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-83>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-84>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-85>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-86>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-87>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-88>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-89>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-8>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-90>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-91>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-92>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-93>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-94>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-95>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-96>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-97>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-98>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-99>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-9>,1
+ifAlias:  -> <pptp-lanmlg-1>,1
+ifAlias:  -> BACKUP KE PAS di aktifkan kalo MLG - PAS CUT,1
+ifAlias:  -> OA-Linknet,1
+ifAlias:  -> Starlink,1
+ifAlias:  -> br-030934d586fd,1
+ifAlias:  -> br-0a3310fd456b,1
+ifAlias:  -> br-0d014278628e,1
+ifAlias:  -> br-0fe6bf8fb541,1
+ifAlias:  -> br-10f13b1efd33,1
+ifAlias:  -> br-2310a72f52c6,1
+ifAlias:  -> br-26a9ee412f49,1
+ifAlias:  -> br-2ad09cd5a2d5,1
+ifAlias:  -> br-3098308db9e1,1
+ifAlias:  -> br-362e8fa743ff,1
+ifAlias:  -> br-36dcc59d113e,1
+ifAlias:  -> br-4516a8d7c78a,1
+ifAlias:  -> br-47aec40a8349,1
+ifAlias:  -> br-490efc873ac8,1
+ifAlias:  -> br-51704ceb2d73,1
+ifAlias:  -> br-571b9e8f6a11,1
+ifAlias:  -> br-5c538b0b13fc,1
+ifAlias:  -> br-5e50e7926eb4,1
+ifAlias:  -> br-65545ff7e2c2,1
+ifAlias:  -> br-6754f9342be3,1
+ifAlias:  -> br-6deb69840ca7,1
+ifAlias:  -> br-6e07e5742fe3,1
+ifAlias:  -> br-772e68d1bfaf,1
+ifAlias:  -> br-7d9ce549a76b,1
+ifAlias:  -> br-894a8814472e,1
+ifAlias:  -> br-910a6b571b35,1
+ifAlias:  -> br-9140bf1313a5,1
+ifAlias:  -> br-92209208e972,1
+ifAlias:  -> br-95bf047913bc,1
+ifAlias:  -> br-98788d4a228a,1
+ifAlias:  -> br-9d5c15899ad8,1
+ifAlias:  -> br-a1a213b7228d,1
+ifAlias:  -> br-a3aeb9341013,1
+ifAlias:  -> br-a53ef02a7440,1
+ifAlias:  -> br-a97023698a4e,1
+ifAlias:  -> br-aa59ab9b53c6,1
+ifAlias:  -> br-ab713fa499cb,1
+ifAlias:  -> br-ae7b0c163811,1
+ifAlias:  -> br-b658b286fcf8,1
+ifAlias:  -> br-b94e19666ec5,1
+ifAlias:  -> br-bd570e68f62a,1
+ifAlias:  -> br-c9c8efada4d0,1
+ifAlias:  -> br-cc0073aa17d7,1
+ifAlias:  -> br-d10b5f28e4e7,1
+ifAlias:  -> br-d1e1d2526590,1
+ifAlias:  -> br-d3214fa4666c,1
+ifAlias:  -> br-d4b06da4d70a,1
+ifAlias:  -> br-d664118454ef,1
+ifAlias:  -> br-d66fe9932f1e,1
+ifAlias:  -> br-dbb7c1e903a2,1
+ifAlias:  -> br-dc597b7bd938,1
+ifAlias:  -> br-dedd8e2afeda,1
+ifAlias:  -> br-e022a5f83e94,1
+ifAlias:  -> br-e5fed7d608e3,1
+ifAlias:  -> br-e8212e1f2cf8,1
+ifAlias:  -> br-e927116c7433,1
+ifAlias:  -> br-ead28a3aa309,1
+ifAlias:  -> br-f39f87f63fea,1
+ifAlias:  -> br-fd55f92f32e8,1
+ifAlias:  -> br-ff8d902ae79d,1
+ifAlias:  -> eoip-tunnel1,1
+ifAlias:  -> gpon_olt-1/2/1,1
+ifAlias:  -> gpon_olt-1/2/10,1
+ifAlias:  -> gpon_olt-1/2/11,1
+ifAlias:  -> gpon_olt-1/2/12,1
+ifAlias:  -> gpon_olt-1/2/13,1
+ifAlias:  -> gpon_olt-1/2/14,1
+ifAlias:  -> gpon_olt-1/2/15,1
+ifAlias:  -> gpon_olt-1/2/16,1
+ifAlias:  -> gpon_olt-1/2/2,1
+ifAlias:  -> gpon_olt-1/2/3,1
+ifAlias:  -> gpon_olt-1/2/4,1
+ifAlias:  -> gpon_olt-1/2/5,1
+ifAlias:  -> gpon_olt-1/2/6,1
+ifAlias:  -> gpon_olt-1/2/7,1
+ifAlias:  -> gpon_olt-1/2/8,1
+ifAlias:  -> gpon_olt-1/2/9,1
+ifAlias:  -> ppp103,1
+ifAlias:  -> ppp112,1
+ifAlias:  -> ppp114,1
+ifAlias:  -> ppp12,1
+ifAlias:  -> ppp123,1
+ifAlias:  -> ppp136,1
+ifAlias:  -> ppp137,1
+ifAlias:  -> ppp140,1
+ifAlias:  -> ppp141,1
+ifAlias:  -> ppp146,1
+ifAlias:  -> ppp147,1
+ifAlias:  -> ppp148,1
+ifAlias:  -> ppp151,1
+ifAlias:  -> ppp152,1
+ifAlias:  -> ppp155,1
+ifAlias:  -> ppp158,1
+ifAlias:  -> ppp159,1
+ifAlias:  -> ppp160,1
+ifAlias:  -> ppp161,1
+ifAlias:  -> ppp162,1
+ifAlias:  -> ppp164,1
+ifAlias:  -> ppp166,1
+ifAlias:  -> ppp168,1
+ifAlias:  -> ppp170,1
+ifAlias:  -> ppp173,1
+ifAlias:  -> ppp176,1
+ifAlias:  -> ppp177,1
+ifAlias:  -> ppp181,1
+ifAlias:  -> ppp183,1
+ifAlias:  -> ppp185,1
+ifAlias:  -> ppp194,1
+ifAlias:  -> ppp197,1
+ifAlias:  -> ppp198,1
+ifAlias:  -> ppp20,1
+ifAlias:  -> ppp200,1
+ifAlias:  -> ppp201,1
+ifAlias:  -> ppp206,1
+ifAlias:  -> ppp212,1
+ifAlias:  -> ppp213,1
+ifAlias:  -> ppp215,1
+ifAlias:  -> ppp217,1
+ifAlias:  -> ppp229,1
+ifAlias:  -> ppp234,1
+ifAlias:  -> ppp238,1
+ifAlias:  -> ppp244,1
+ifAlias:  -> ppp245,1
+ifAlias:  -> ppp249,1
+ifAlias:  -> ppp251,1
+ifAlias:  -> ppp252,1
+ifAlias:  -> ppp256,1
+ifAlias:  -> ppp257,1
+ifAlias:  -> ppp261,1
+ifAlias:  -> ppp268,1
+ifAlias:  -> ppp271,1
+ifAlias:  -> ppp272,1
+ifAlias:  -> ppp278,1
+ifAlias:  -> ppp279,1
+ifAlias:  -> ppp281,1
+ifAlias:  -> ppp282,1
+ifAlias:  -> ppp283,1
+ifAlias:  -> ppp284,1
+ifAlias:  -> ppp286,1
+ifAlias:  -> ppp287,1
+ifAlias:  -> ppp289,1
+ifAlias:  -> ppp296,1
+ifAlias:  -> ppp301,1
+ifAlias:  -> ppp307,1
+ifAlias:  -> ppp308,1
+ifAlias:  -> ppp309,1
+ifAlias:  -> ppp310,1
+ifAlias:  -> ppp311,1
+ifAlias:  -> ppp313,1
+ifAlias:  -> ppp316,1
+ifAlias:  -> ppp320,1
+ifAlias:  -> ppp323,1
+ifAlias:  -> ppp330,1
+ifAlias:  -> ppp332,1
+ifAlias:  -> ppp334,1
+ifAlias:  -> ppp335,1
+ifAlias:  -> ppp338,1
+ifAlias:  -> ppp345,1
+ifAlias:  -> ppp346,1
+ifAlias:  -> ppp347,1
+ifAlias:  -> ppp348,1
+ifAlias:  -> ppp349,1
+ifAlias:  -> ppp357,1
+ifAlias:  -> ppp358,1
+ifAlias:  -> ppp361,1
+ifAlias:  -> ppp363,1
+ifAlias:  -> ppp364,1
+ifAlias:  -> ppp366,1
+ifAlias:  -> ppp368,1
+ifAlias:  -> ppp369,1
+ifAlias:  -> ppp37,1
+ifAlias:  -> ppp371,1
+ifAlias:  -> ppp373,1
+ifAlias:  -> ppp374,1
+ifAlias:  -> ppp375,1
+ifAlias:  -> ppp378,1
+ifAlias:  -> ppp380,1
+ifAlias:  -> ppp381,1
+ifAlias:  -> ppp387,1
+ifAlias:  -> ppp388,1
+ifAlias:  -> ppp391,1
+ifAlias:  -> ppp392,1
+ifAlias:  -> ppp393,1
+ifAlias:  -> ppp396,1
+ifAlias:  -> ppp397,1
+ifAlias:  -> ppp398,1
+ifAlias:  -> ppp400,1
+ifAlias:  -> ppp402,1
+ifAlias:  -> ppp403,1
+ifAlias:  -> ppp408,1
+ifAlias:  -> ppp409,1
+ifAlias:  -> ppp410,1
+ifAlias:  -> ppp411,1
+ifAlias:  -> ppp412,1
+ifAlias:  -> ppp413,1
+ifAlias:  -> ppp414,1
+ifAlias:  -> ppp415,1
+ifAlias:  -> ppp416,1
+ifAlias:  -> ppp417,1
+ifAlias:  -> ppp418,1
+ifAlias:  -> ppp419,1
+ifAlias:  -> ppp420,1
+ifAlias:  -> ppp421,1
+ifAlias:  -> ppp45,1
+ifAlias:  -> ppp46,1
+ifAlias:  -> ppp60,1
+ifAlias:  -> ppp62,1
+ifAlias:  -> ppp69,1
+ifAlias:  -> ppp71,1
+ifAlias:  -> ppp72,1
+ifAlias:  -> ppp76,1
+ifAlias:  -> ppp94,1
+ifAlias:  -> ppp97,1
+ifAlias:  -> sfp4,1
+ifAlias:  -> veth0095b5b,1
+ifAlias:  -> veth0116feb,1
+ifAlias:  -> veth0220954,1
+ifAlias:  -> veth02ce483,1
+ifAlias:  -> veth03cb0b7,1
+ifAlias:  -> veth03ce291,1
+ifAlias:  -> veth0646021,1
+ifAlias:  -> veth065b90a,1
+ifAlias:  -> veth0818770,1
+ifAlias:  -> veth09e2aee,1
+ifAlias:  -> veth0ba2029,1
+ifAlias:  -> veth0bca8da,1
+ifAlias:  -> veth0bfaae1,1
+ifAlias:  -> veth0c9fd9f,1
+ifAlias:  -> veth0cca332,1
+ifAlias:  -> veth0d9314d,1
+ifAlias:  -> veth0ddf6d4,1
+ifAlias:  -> veth100e996,1
+ifAlias:  -> veth10e8980,1
+ifAlias:  -> veth1149328,1
+ifAlias:  -> veth1232627,1
+ifAlias:  -> veth1265120,1
+ifAlias:  -> veth13718ce,1
+ifAlias:  -> veth13d33e3,1
+ifAlias:  -> veth145d98b,1
+ifAlias:  -> veth14d13fd,1
+ifAlias:  -> veth16ca4f0,1
+ifAlias:  -> veth16d6050,1
+ifAlias:  -> veth172355a,1
+ifAlias:  -> veth1781a3a,1
+ifAlias:  -> veth17d76a4,1
+ifAlias:  -> veth1805b30,1
+ifAlias:  -> veth18880f1,1
+ifAlias:  -> veth18a96c3,1
+ifAlias:  -> veth1a64905,1
+ifAlias:  -> veth1bf96c5,1
+ifAlias:  -> veth1d162a0,1
+ifAlias:  -> veth1e0e5b5,1
+ifAlias:  -> veth1f1b75c,1
+ifAlias:  -> veth1fbc22e,1
+ifAlias:  -> veth20b7808,1
+ifAlias:  -> veth2184d14,1
+ifAlias:  -> veth21e056e,1
+ifAlias:  -> veth21e4774,1
+ifAlias:  -> veth239370b,1
+ifAlias:  -> veth2442dc3,1
+ifAlias:  -> veth245207d,1
+ifAlias:  -> veth24fdce2,1
+ifAlias:  -> veth26e40c2,1
+ifAlias:  -> veth2705bf4,1
+ifAlias:  -> veth27cea92,1
+ifAlias:  -> veth288997a,1
+ifAlias:  -> veth2b84487,1
+ifAlias:  -> veth2b92620,1
+ifAlias:  -> veth2c44c1b,1
+ifAlias:  -> veth2d0ed07,1
+ifAlias:  -> veth2d6ec1b,1
+ifAlias:  -> veth2d8502d,1
+ifAlias:  -> veth2de09b0,1
+ifAlias:  -> veth2eb2c76,1
+ifAlias:  -> veth2ee859d,1
+ifAlias:  -> veth2f6fc4d,1
+ifAlias:  -> veth34814a7,1
+ifAlias:  -> veth34b03dd,1
+ifAlias:  -> veth352f3a8,1
+ifAlias:  -> veth3554660,1
+ifAlias:  -> veth359ea1a,1
+ifAlias:  -> veth35dcfe8,1
+ifAlias:  -> veth35e5257,1
+ifAlias:  -> veth37387ad,1
+ifAlias:  -> veth3a52907,1
+ifAlias:  -> veth3a5372e,1
+ifAlias:  -> veth3acc0ed,1
+ifAlias:  -> veth3b7b84b,1
+ifAlias:  -> veth3b8b479,1
+ifAlias:  -> veth3c33029,1
+ifAlias:  -> veth3d054db,1
+ifAlias:  -> veth3d2b94a,1
+ifAlias:  -> veth3dbfb35,1
+ifAlias:  -> veth3f456b0,1
+ifAlias:  -> veth403bfcd,1
+ifAlias:  -> veth408e569,1
+ifAlias:  -> veth4144a1b,1
+ifAlias:  -> veth4286c4f,1
+ifAlias:  -> veth4352dd5,1
+ifAlias:  -> veth4367a0c,1
+ifAlias:  -> veth4433400,1
+ifAlias:  -> veth45159b7,1
+ifAlias:  -> veth4594dfe,1
+ifAlias:  -> veth46af24f,1
+ifAlias:  -> veth47151e9,1
+ifAlias:  -> veth4a7b9e6,1
+ifAlias:  -> veth4ba776d,1
+ifAlias:  -> veth4bec1be,1
+ifAlias:  -> veth4bf273b,1
+ifAlias:  -> veth4c013f3,1
+ifAlias:  -> veth4ca63a6,1
+ifAlias:  -> veth4cbf49c,1
+ifAlias:  -> veth4d5c97f,1
+ifAlias:  -> veth4d76346,1
+ifAlias:  -> veth4d8a0bf,1
+ifAlias:  -> veth4dfac53,1
+ifAlias:  -> veth4e7e786,1
+ifAlias:  -> veth4f1f309,1
+ifAlias:  -> veth5088412,1
+ifAlias:  -> veth5223341,1
+ifAlias:  -> veth52bec62,1
+ifAlias:  -> veth53079c5,1
+ifAlias:  -> veth543927e,1
+ifAlias:  -> veth5444106,1
+ifAlias:  -> veth5444fbb,1
+ifAlias:  -> veth553bfe1,1
+ifAlias:  -> veth55f4a84,1
+ifAlias:  -> veth56a6bf6,1
+ifAlias:  -> veth57a2d35,1
+ifAlias:  -> veth5837fd2,1
+ifAlias:  -> veth5854f3c,1
+ifAlias:  -> veth58b07fc,1
+ifAlias:  -> veth592ffd7,1
+ifAlias:  -> veth5a73b9d,1
+ifAlias:  -> veth5add754,1
+ifAlias:  -> veth5b8f937,1
+ifAlias:  -> veth5c32807,1
+ifAlias:  -> veth5e3407c,1
+ifAlias:  -> veth5e8c6f7,1
+ifAlias:  -> veth5eb475c,1
+ifAlias:  -> veth5f6db76,1
+ifAlias:  -> veth5f89b1f,1
+ifAlias:  -> veth6131752,1
+ifAlias:  -> veth6135996,1
+ifAlias:  -> veth6156afa,1
+ifAlias:  -> veth617b2a7,1
+ifAlias:  -> veth63afe4e,1
+ifAlias:  -> veth6424290,1
+ifAlias:  -> veth64ab041,1
+ifAlias:  -> veth6661b21,1
+ifAlias:  -> veth66e6b70,1
+ifAlias:  -> veth66e8530,1
+ifAlias:  -> veth676942e,1
+ifAlias:  -> veth68284cc,1
+ifAlias:  -> veth6829a6a,1
+ifAlias:  -> veth684374b,1
+ifAlias:  -> veth68d613b,1
+ifAlias:  -> veth68e906e,1
+ifAlias:  -> veth691b0d5,1
+ifAlias:  -> veth695dad4,1
+ifAlias:  -> veth6978a36,1
+ifAlias:  -> veth69baf84,1
+ifAlias:  -> veth6a8f573,1
+ifAlias:  -> veth6c33d3e,1
+ifAlias:  -> veth6d33522,1
+ifAlias:  -> veth6d8b1e5,1
+ifAlias:  -> veth6e9f205,1
+ifAlias:  -> veth7060a42,1
+ifAlias:  -> veth70f6746,1
+ifAlias:  -> veth710e3bc,1
+ifAlias:  -> veth71169b3,1
+ifAlias:  -> veth727496f,1
+ifAlias:  -> veth7421703,1
+ifAlias:  -> veth782041f,1
+ifAlias:  -> veth79cd6a8,1
+ifAlias:  -> veth79f00a7,1
+ifAlias:  -> veth7a7369f,1
+ifAlias:  -> veth7b22466,1
+ifAlias:  -> veth7b854ef,1
+ifAlias:  -> veth7cf7761,1
+ifAlias:  -> veth7d6cbf6,1
+ifAlias:  -> veth7e9dea2,1
+ifAlias:  -> veth7f4d8ba,1
+ifAlias:  -> veth7f6c660,1
+ifAlias:  -> veth80f50cb,1
+ifAlias:  -> veth8173263,1
+ifAlias:  -> veth81bc3b0,1
+ifAlias:  -> veth82a3abd,1
+ifAlias:  -> veth82a743c,1
+ifAlias:  -> veth83c224a,1
+ifAlias:  -> veth858bb5e,1
+ifAlias:  -> veth86d07dc,1
+ifAlias:  -> veth86f784f,1
+ifAlias:  -> veth87a5b33,1
+ifAlias:  -> veth8827c6c,1
+ifAlias:  -> veth89e5de6,1
+ifAlias:  -> veth8a494a0,1
+ifAlias:  -> veth8b5e7df,1
+ifAlias:  -> veth8d63a07,1
+ifAlias:  -> veth8fd2162,1
+ifAlias:  -> veth903d69c,1
+ifAlias:  -> veth90d725f,1
+ifAlias:  -> veth913a2f0,1
+ifAlias:  -> veth91f7d88,1
+ifAlias:  -> veth92a15e7,1
+ifAlias:  -> veth92a4476,1
+ifAlias:  -> veth932f9ce,1
+ifAlias:  -> veth939ecff,1
+ifAlias:  -> veth94782bb,1
+ifAlias:  -> veth947f7c2,1
+ifAlias:  -> veth94b1a73,1
+ifAlias:  -> veth9535f23,1
+ifAlias:  -> veth95bb189,1
+ifAlias:  -> veth970d5b4,1
+ifAlias:  -> veth977ec4d,1
+ifAlias:  -> veth985c978,1
+ifAlias:  -> veth9947dc0,1
+ifAlias:  -> veth99613a8,1
+ifAlias:  -> veth9a1cb87,1
+ifAlias:  -> veth9a7251b,1
+ifAlias:  -> veth9a73dd6,1
+ifAlias:  -> veth9a9b3f8,1
+ifAlias:  -> veth9aa1d6b,1
+ifAlias:  -> veth9aada82,1
+ifAlias:  -> veth9abb5ce,1
+ifAlias:  -> veth9cbb605,1
+ifAlias:  -> veth9d2b9d9,1
+ifAlias:  -> veth9d9c6ce,1
+ifAlias:  -> veth9e34936,1
+ifAlias:  -> veth9e5f0fb,1
+ifAlias:  -> veth9e9c50f,1
+ifAlias:  -> vetha0449aa,1
+ifAlias:  -> vetha0b19a3,1
+ifAlias:  -> vetha1378c6,1
+ifAlias:  -> vetha1a1ea7,1
+ifAlias:  -> vetha238a2a,1
+ifAlias:  -> vetha33f743,1
+ifAlias:  -> vetha3c190d,1
+ifAlias:  -> vetha4f5a87,1
+ifAlias:  -> vetha691fc9,1
+ifAlias:  -> vetha8553e9,1
+ifAlias:  -> vetha948a60,1
+ifAlias:  -> vetha9bd625,1
+ifAlias:  -> vethaa83059,1
+ifAlias:  -> vethaa8e799,1
+ifAlias:  -> vethaace319,1
+ifAlias:  -> vethaaf82fa,1
+ifAlias:  -> vethab0689a,1
+ifAlias:  -> vethab4ff1c,1
+ifAlias:  -> vethab91e6f,1
+ifAlias:  -> vethac0ecf0,1
+ifAlias:  -> vethacf1f4a,1
+ifAlias:  -> vethacf224b,1
+ifAlias:  -> vethad4a079,1
+ifAlias:  -> vethaf18a6b,1
+ifAlias:  -> vethafbc7f0,1
+ifAlias:  -> vethafc5ca7,1
+ifAlias:  -> vethb09db35,1
+ifAlias:  -> vethb0cb6ee,1
+ifAlias:  -> vethb1a87a6,1
+ifAlias:  -> vethb1ff971,1
+ifAlias:  -> vethb21832f,1
+ifAlias:  -> vethb23ac8e,1
+ifAlias:  -> vethb23ec8d,1
+ifAlias:  -> vethb30bfed,1
+ifAlias:  -> vethb313349,1
+ifAlias:  -> vethb3ceb7b,1
+ifAlias:  -> vethb4bf7c8,1
+ifAlias:  -> vethb67cad3,1
+ifAlias:  -> vethb71f0e3,1
+ifAlias:  -> vethb764f69,1
+ifAlias:  -> vethb7c0b5e,1
+ifAlias:  -> vethb90286b,1
+ifAlias:  -> vethb956565,1
+ifAlias:  -> vethb97abfb,1
+ifAlias:  -> vethb9e65ec,1
+ifAlias:  -> vethbb07397,1
+ifAlias:  -> vethbbe791d,1
+ifAlias:  -> vethbc28615,1
+ifAlias:  -> vethbcb6bb3,1
+ifAlias:  -> vethbd9c95e,1
+ifAlias:  -> vethbe1ccf4,1
+ifAlias:  -> vethbff1828,1
+ifAlias:  -> vethbff7fb7,1
+ifAlias:  -> vethc013510,1
+ifAlias:  -> vethc098226,1
+ifAlias:  -> vethc0e8a9c,1
+ifAlias:  -> vethc21239b,1
+ifAlias:  -> vethc4009fb,1
+ifAlias:  -> vethc40a7e8,1
+ifAlias:  -> vethc5489f6,1
+ifAlias:  -> vethc57ca10,1
+ifAlias:  -> vethc620a25,1
+ifAlias:  -> vethc70ef69,1
+ifAlias:  -> vethc7466d6,1
+ifAlias:  -> vethc82b2f4,1
+ifAlias:  -> vethc92fd5d,1
+ifAlias:  -> ppp331,1
+ifAlias:  -> vethc9def0a,1
+ifAlias:  -> vethcb2ae1f,1
+ifAlias:  -> vethcbdbe03,1
+ifAlias:  -> vethcd088ed,1
+ifAlias:  -> vethcd8bc2f,1
+ifAlias:  -> vethcddc842,1
+ifAlias:  -> vethcfc95d1,1
+ifAlias:  -> vethd10a923,1
+ifAlias:  -> vethd170662,1
+ifAlias:  -> vethd2c1dac,1
+ifAlias:  -> vethd3a8ee1,1
+ifAlias:  -> vethd59c443,1
+ifAlias:  -> vethd5e0d00,1
+ifAlias:  -> vethd617d8b,1
+ifAlias:  -> vethd669b08,1
+ifAlias:  -> vethd79319a,1
+ifAlias:  -> vethd7e681d,1
+ifAlias:  -> vethda98a94,1
+ifAlias:  -> vethdac8a4c,1
+ifAlias:  -> vethdb6cc03,1
+ifAlias:  -> vethdb750e2,1
+ifAlias:  -> vethdbc4603,1
+ifAlias:  -> vethde031b7,1
+ifAlias:  -> vethdf53948,1
+ifAlias:  -> vethe04bb21,1
+ifAlias:  -> vethe0ab73a,1
+ifAlias:  -> vethe166914,1
+ifAlias:  -> vethe281adc,1
+ifAlias:  -> vethe29b56e,1
+ifAlias:  -> vethe395802,1
+ifAlias:  -> vethe4277f4,1
+ifAlias:  -> vethe4ac027,1
+ifAlias:  -> vethe7a5665,1
+ifAlias:  -> vethe7d4c4b,1
+ifAlias:  -> vethe81c0a0,1
+ifAlias:  -> vethe978e03,1
+ifAlias:  -> vethea3ad91,1
+ifAlias:  -> vetheab613b,1
+ifAlias:  -> vetheafdf68,1
+ifAlias:  -> vetheb76793,1
+ifAlias:  -> vethebdff49,1
+ifAlias:  -> vethebee9e6,1
+ifAlias:  -> vethebf0c09,1
+ifAlias:  -> vethec39092,1
+ifAlias:  -> vethec9beac,1
+ifAlias:  -> vethecfd75d,1
+ifAlias:  -> vethee2bba4,1
+ifAlias:  -> vethef664b4,1
+ifAlias:  -> vethefbba1d,1
+ifAlias:  -> vethf10bd58,1
+ifAlias:  -> vethf1fe693,1
+ifAlias:  -> vethf2cbd66,1
+ifAlias:  -> vethf493005,1
+ifAlias:  -> vethf4a833d,1
+ifAlias:  -> vethf5a0457,1
+ifAlias:  -> vethf5d60a3,1
+ifAlias:  -> vethf5f9b68,1
+ifAlias:  -> vethf6a3f21,1
+ifAlias:  -> vethf6b1b87,1
+ifAlias:  -> vethf6b7665,1
+ifAlias:  -> vethf7cbbf5,1
+ifAlias:  -> vethf834560,1
+ifAlias:  -> vethf8dac2c,1
+ifAlias:  -> vethfa3cde8,1
+ifAlias:  -> vethfb25880,1
+ifAlias:  -> vethfc08c74,1
+ifAlias:  -> vethfc7580b,1
+ifAlias:  -> vethfd814c7,1
+ifAlias:  -> vethfe0d328,1
+ifAlias:  -> vethfee2126,1
+ifAlias:  -> vlan109-SRV0009 devbriva,1
+ifAlias:  -> vlan110-SRV0010 apibriva,1
+ifAlias:  -> vlan111-SRV0011 billbcasyariah,1
+ifAlias:  -> vlan112-SRV0012 apibcas,1
+ifAlias:  -> vlan113-SRV0013 apibca,1
+ifAlias:  -> vlan114-SRV0014 devapibca,1
+ifAlias:  -> vlan115-SVR0015-EveNG,1
+ifAlias:  -> vlan116-SVR0016-ServerImage,1
+ifAlias:  -> vlan117-SVR0017-ServerPostgree,1
+ifAlias:  -> vlan1200-Vyospujo,1
+ifAlias:  -> vlan1680,1
+ifAlias:  -> vlan1711-Core MLG PAS-SBY-MLG,1
+ifAlias:  -> vlan1901-OLT KantorC600,1
+ifAlias:  -> vlan2211,1
+ifAlias:  -> vlan2211-Local EVE,1
+ifAlias:  -> vlan2502,1
+ifAlias:  -> xgei-1/10/1,1
+ifAlias:  -> xgei-1/10/2,1
+ifAlias:  -> xgei-1/10/3,1
+ifAlias:  -> xgei-1/10/4,1
+ifAlias:  -> xgei-1/11/1,1
+ifAlias:  -> xgei-1/11/2,1
+ifAlias:  -> xgei-1/11/3,1
+ifAlias:  -> xgei-1/11/4,1
+ifAlias: #eoip-tunnel-RADIUSD TO PASURUAN -> PENTING,1
+ifAlias: BACKUP KE PAS di aktifkan kalo MLG - PAS CUT -> vlan1704-Dsitri PAS MLG - SBY - PAS GIT,1
+"BGP Session Down: 10.10.232.129 (AS64315 ), last error: Hold Timer Expired",1
+ifAlias: Backup ke SBY CCR -> vlan1706-CCR1036 OMADATA MLG - PAS - SBY GIT,1
+"BGP Session Down: 103.215.176.94 (AS147094 ), last error: Reserved",1
+"BGP Session Flap: 10.10.232.129 (AS64315 ), last error: Hold Timer Expired",1
+ifAlias: Di Aktifkan kalo Lintas CUT -> vlan1707-Juniper Omadata MLG - PAS - SBY GIT,1
+"BGP Session Flap: 10.10.232.129 (AS64315 ), last error: Reserved",1
+ifAlias: Ethernet1/42 -> Kantorc600-XGEI101,1
+BGP Session Up: 10.10.232.129 (AS64315 ),1
+BGP Session Up: 10.246.15.134 (AS5214 ),1
+BGP Session Up: 103.215.176.94 (AS147094 ),1
+BGP Session Up: 117.103.68.1 (AS64555 ),1
+Current under threshold: 0 A (< 0.0001 A),1
+ifType:  -> ieee8023adLag,1
+ifSpeed: 20 Gbps -> 0 bps,1
+ifAlias: Kurang ini ke GIT -> vlan601-CCR OMADATA Via Lintas,1
+Device rebooted after 6 months 2 weeks 14 hours 38 minutes -> 158s,1
+Fanspeed above threshold: 6510 rpm (> 6480 rpm),1
+ifAlias: Mac inix : 48:8F:5A:A6:3A:1A -> qsfp28-1-1_Port eth1/49,1
+ifAlias: NEX-1/54 -> eth3,1
+ifAlias: Nex-1/52 -> eth0,1
+Fanspeed above threshold: 6690 rpm (> 6480 rpm),1
+ifAlias: OLT Kantor 1/2/3:1 -> vlan827-Hotel Liberta,1
+ifAlias: PENTING -> #eoip-tunnel-RADIUSD TO PASURUAN,1
+Fanspeed above threshold: 6780 rpm (> 6480 rpm),1
+ifAlias: RO TR069 -> ether3-TR069,1
+ifAlias: Sony tri wijaya Villa bukit tidar A4 No 113 6285335145321 -> gpon_1/4/6,1
+Fanspeed above threshold: 6960 rpm (> 6750 rpm),1
+Fanspeed under threshold: 0 rpm (< 4544 rpm),1
+Fanspeed under threshold: 0 rpm (< 5007.2 rpm),1
+Fanspeed under threshold: 2051 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2066 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2084 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2111 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2117 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2134 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2161 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2166 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2220 rpm (< 2754.4 rpm),1
+ifAlias: eth0 -> Nex-1/52,1
+ifAlias: eth0.2150 -> eth0.2150@eth0,1
+ifAlias: eth0.2150@eth0 -> eth0.2150,1
+ifAlias: eth2 -> to-MLG2,1
+ifAlias: eth3 -> NEX-1/54,1
+Fanspeed under threshold: 2222 rpm (< 2754.4 rpm),1
+ifAlias: ether2_OLT Kantor -> gei_1/10/5,1
+ifAlias: ether3-TR069 -> RO TR069,1
+ifAlias: ether5_Server HP Proliant VYOS -> ether5_Server HP Proliant,1
+ifAlias: ether6 -> ether6-Proliant DL380 gen9,1
+ifAlias: gei_1/10/5 -> ether2_OLT Kantor,1
+Fanspeed under threshold: 2228 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2235 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2251 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2260 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2261 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2264 rpm (< 2754.4 rpm),1
+ifAlias: gpon_olt-1/1/1 -> Damanhuri Jl Imam Bonjol Rt 04 Rw 03 Bugul Lor 6283895676147,1
+ifAlias: kurang ini ke GIT -> vlan2149-BGP CCR SBY Lintas,1
+ifAlias: pim6reg -> pim6reg@NONE,1
+ifAlias: pim6reg@NONE -> pim6reg,1
+ifAlias: qsfp28-1-1_Port eth1/49 -> Mac inix : 48:8F:5A:A6:3A:1A,1
+Fanspeed under threshold: 2265 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2270 rpm (< 2754.4 rpm),1
+ifAlias: to-MLG2 -> eth2,1
+ifAlias: vlan109-SRV0009 devbriva -> vlan109-SRV0009 Briva,1
+ifAlias: vlan110-SRV0010 apibriva -> vlan110-SRV0010 BCAS,1
+ifAlias: vlan111-SRV0011 billbcasyariah -> vlan111-SRV0011 Dev-BCA,1
+ifAlias: vlan112-SRV0012 apibcas -> vlan112-SRV0012 Prod-BCA,1
+ifAlias: vlan113-SRV0013 apibca -> vlan113-SRV0013 Service API,1
+ifAlias: vlan1704-Dsitri PAS MLG - SBY - PAS GIT -> BACKUP KE PAS di aktifkan kalo MLG - PAS CUT,1
+ifAlias: vlan1706-CCR1036 OMADATA MLG - PAS - SBY GIT -> Backup ke SBY CCR,1
+ifAlias: vlan1707-Juniper Omadata MLG - PAS - SBY GIT -> Di Aktifkan kalo Lintas CUT,1
+ifAlias: vlan2138-Core StarboyPAS toMLG -> vlan2138-Core StarboyPAS toMLG LINTAS,1
+ifAlias: vlan2149-BGP CCR SBY Lintas -> kurang ini ke GIT,1
+ifAlias: vlan601-CCR OMADATA Via Lintas -> Kurang ini ke GIT,1
+ifAlias: vlan827-Hotel Liberta -> OLT Kantor 1/2/3:1,1
+Fanspeed under threshold: 2278 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2288 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2296 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2303 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2308 rpm (< 2754.4 rpm),1
+ifDescr:  -> <pptp-LAN-PROLIANTX86-1>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-100>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-10>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-11>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-12>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-13>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-14>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-15>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-16>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-17>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-18>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-19>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-1>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-20>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-21>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-22>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-23>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-24>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-25>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-26>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-27>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-28>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-29>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-2>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-30>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-31>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-32>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-33>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-34>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-35>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-36>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-37>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-38>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-39>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-3>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-40>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-41>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-42>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-43>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-44>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-45>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-46>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-47>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-48>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-49>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-4>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-50>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-51>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-52>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-53>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-54>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-55>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-56>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-57>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-58>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-59>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-5>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-60>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-61>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-62>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-63>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-64>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-65>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-66>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-67>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-68>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-69>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-6>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-70>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-71>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-72>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-73>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-74>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-75>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-76>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-77>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-78>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-79>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-7>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-80>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-81>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-82>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-83>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-84>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-85>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-86>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-87>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-88>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-89>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-8>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-90>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-91>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-92>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-93>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-94>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-95>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-96>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-97>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-98>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-99>,1
+ifDescr:  -> <pptp-RemoteMLGPAS2-9>,1
+Fanspeed under threshold: 2313 rpm (< 2754.4 rpm),1
+ifDescr:  -> <pptp-lanmlg-1>,1
+Fanspeed under threshold: 2314 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2317 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2327 rpm (< 2754.4 rpm),1
+ifDescr:  -> Starlink,1
+ifDescr:  -> br-030934d586fd,1
+ifDescr:  -> br-0a3310fd456b,1
+ifDescr:  -> br-0d014278628e,1
+ifDescr:  -> br-0fe6bf8fb541,1
+ifDescr:  -> br-10f13b1efd33,1
+ifDescr:  -> br-2310a72f52c6,1
+ifDescr:  -> br-26a9ee412f49,1
+ifDescr:  -> br-2ad09cd5a2d5,1
+ifDescr:  -> br-3098308db9e1,1
+ifDescr:  -> br-362e8fa743ff,1
+ifDescr:  -> br-36dcc59d113e,1
+ifDescr:  -> br-4516a8d7c78a,1
+ifDescr:  -> br-47aec40a8349,1
+ifDescr:  -> br-490efc873ac8,1
+ifDescr:  -> br-51704ceb2d73,1
+ifDescr:  -> br-571b9e8f6a11,1
+ifDescr:  -> br-5c538b0b13fc,1
+ifDescr:  -> br-5e50e7926eb4,1
+ifDescr:  -> br-65545ff7e2c2,1
+ifDescr:  -> br-6754f9342be3,1
+ifDescr:  -> br-6deb69840ca7,1
+ifDescr:  -> br-6e07e5742fe3,1
+ifDescr:  -> br-772e68d1bfaf,1
+ifDescr:  -> br-7d9ce549a76b,1
+ifDescr:  -> br-894a8814472e,1
+ifDescr:  -> br-910a6b571b35,1
+ifDescr:  -> br-9140bf1313a5,1
+ifDescr:  -> br-92209208e972,1
+ifDescr:  -> br-95bf047913bc,1
+ifDescr:  -> br-98788d4a228a,1
+ifDescr:  -> br-9d5c15899ad8,1
+ifDescr:  -> br-a1a213b7228d,1
+ifDescr:  -> br-a3aeb9341013,1
+ifDescr:  -> br-a53ef02a7440,1
+ifDescr:  -> br-a97023698a4e,1
+ifDescr:  -> br-aa59ab9b53c6,1
+ifDescr:  -> br-ab713fa499cb,1
+ifDescr:  -> br-ae7b0c163811,1
+ifDescr:  -> br-b658b286fcf8,1
+ifDescr:  -> br-b94e19666ec5,1
+ifDescr:  -> br-bd570e68f62a,1
+ifDescr:  -> br-c9c8efada4d0,1
+ifDescr:  -> br-cc0073aa17d7,1
+ifDescr:  -> br-d10b5f28e4e7,1
+ifDescr:  -> br-d1e1d2526590,1
+ifDescr:  -> br-d3214fa4666c,1
+ifDescr:  -> br-d4b06da4d70a,1
+ifDescr:  -> br-d664118454ef,1
+ifDescr:  -> br-d66fe9932f1e,1
+ifDescr:  -> br-dbb7c1e903a2,1
+ifDescr:  -> br-dc597b7bd938,1
+ifDescr:  -> br-dedd8e2afeda,1
+ifDescr:  -> br-e022a5f83e94,1
+ifDescr:  -> br-e5fed7d608e3,1
+ifDescr:  -> br-e8212e1f2cf8,1
+ifDescr:  -> br-e927116c7433,1
+ifDescr:  -> br-ead28a3aa309,1
+ifDescr:  -> br-f39f87f63fea,1
+ifDescr:  -> br-fd55f92f32e8,1
+ifDescr:  -> br-ff8d902ae79d,1
+ifDescr:  -> eoip-tunnel1,1
+ifDescr:  -> gpon_olt-1/2/1,1
+ifDescr:  -> gpon_olt-1/2/10,1
+ifDescr:  -> gpon_olt-1/2/11,1
+ifDescr:  -> gpon_olt-1/2/12,1
+ifDescr:  -> gpon_olt-1/2/13,1
+ifDescr:  -> gpon_olt-1/2/14,1
+ifDescr:  -> gpon_olt-1/2/15,1
+ifDescr:  -> gpon_olt-1/2/16,1
+ifDescr:  -> gpon_olt-1/2/2,1
+ifDescr:  -> gpon_olt-1/2/3,1
+ifDescr:  -> gpon_olt-1/2/4,1
+ifDescr:  -> gpon_olt-1/2/5,1
+ifDescr:  -> gpon_olt-1/2/6,1
+ifDescr:  -> gpon_olt-1/2/7,1
+ifDescr:  -> gpon_olt-1/2/8,1
+ifDescr:  -> gpon_olt-1/2/9,1
+ifDescr:  -> port-channel20,1
+Fanspeed under threshold: 2333 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2337 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2340 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2347 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2348 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2349 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp103,1
+Fanspeed under threshold: 2350 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2351 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2352 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2357 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2361 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2363 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2368 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp112,1
+Fanspeed under threshold: 2374 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp114,1
+Fanspeed under threshold: 2375 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2377 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2378 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2379 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2383 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp12,1
+Fanspeed under threshold: 2387 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2389 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2390 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp123,1
+Fanspeed under threshold: 2396 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2398 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2399 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2401 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2403 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2405 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2408 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2409 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2410 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2412 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2414 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp136,1
+ifDescr:  -> ppp137,1
+Fanspeed under threshold: 2416 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2417 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2421 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp140,1
+ifDescr:  -> ppp141,1
+Fanspeed under threshold: 2425 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2427 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2428 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2432 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp146,1
+ifDescr:  -> ppp147,1
+ifDescr:  -> ppp148,1
+Fanspeed under threshold: 2433 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2438 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2439 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp151,1
+ifDescr:  -> ppp152,1
+Fanspeed under threshold: 2444 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2446 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp155,1
+Fanspeed under threshold: 2450 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2452 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp158,1
+ifDescr:  -> ppp159,1
+Fanspeed under threshold: 2454 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp160,1
+ifDescr:  -> ppp161,1
+ifDescr:  -> ppp162,1
+Fanspeed under threshold: 2456 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp164,1
+Fanspeed under threshold: 2457 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp166,1
+Fanspeed under threshold: 2463 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp168,1
+Fanspeed under threshold: 2468 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2470 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp170,1
+ifAlias:  -> vethc9d8e96,1
+Fanspeed under threshold: 2472 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp173,1
+Fanspeed under threshold: 2473 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2474 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp176,1
+ifDescr:  -> ppp177,1
+Fanspeed under threshold: 2491 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2493 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2496 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2497 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp181,1
+Fanspeed under threshold: 2498 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp183,1
+Fanspeed under threshold: 2508 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp185,1
+Fanspeed under threshold: 2513 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2515 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2518 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2531 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2532 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2536 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2538 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2539 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2545 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp194,1
+Fanspeed under threshold: 2556 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2572 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp197,1
+ifDescr:  -> ppp198,1
+Fanspeed under threshold: 2589 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2595 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp20,1
+ifDescr:  -> ppp200,1
+ifDescr:  -> ppp201,1
+Fanspeed under threshold: 2603 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2607 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2610 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2616 rpm (< 2754.4 rpm),1
+ifDescr:  -> ppp206,1
+Fanspeed under threshold: 2634 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2681 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 2714 rpm (< 2754.4 rpm),1
+Fanspeed under threshold: 4515 rpm (< 4860 rpm),1
+Fanspeed under threshold: 4695 rpm (< 4860 rpm),1
+Fanspeed under threshold: 4906 rpm (< 4981.6 rpm),1
+ifDescr:  -> ppp212,1
+ifDescr:  -> ppp213,1
+Fanspeed under threshold: 4951 rpm (< 4981.6 rpm),1
+ifDescr:  -> ppp215,1
+Fanspeed under threshold: 4958 rpm (< 4981.6 rpm),1
+ifDescr:  -> ppp217,1
+Fanspeed under threshold: 4963 rpm (< 4981.6 rpm),1
+Fanspeed under threshold: 4971 rpm (< 4981.6 rpm),1
+Fanspeed under threshold: 4972 rpm (< 4981.6 rpm),1
+Fanspeed under threshold: 4995 rpm (< 5232 rpm),1
+Fanspeed under threshold: 5040 rpm (< 5232 rpm),1
+Fanspeed under threshold: 5463 rpm (< 6600 rpm),1
+Hostname changed -> 10.246.5.162 (nmc),1
+Hostname changed -> 10.246.5.166 (nmc),1
+IP: 10.246.3.30,1
+IP: 10.246.5.162,1
+IP: 10.246.5.162 -> ,1
+ifDescr:  -> ppp229,1
+IP: 10.246.5.166,1
+IP: 10.246.5.166 -> ,1
+IP: 10.246.88.34,1
+Icon: images/os/vyos.svg,1
+Icon: images/os/zte.svg,1
+ifDescr:  -> ppp234,1
+Linux server 6.17.13-2-pve #1 SMP PREEMPT_DYNAMIC PMX 6.17.13-2 (2026-03-13T08:06Z) x86_64 -> Linux server 6.17.13-2-pve #1 SMP PREEMPT_DYNAMIC PMX 6.17.13-2 (2026-03-13T08:06Z) x86_64,1
+Linux server-master1 6.8.0-124-generic #124-Ubuntu SMP PREEMPT_DYNAMIC Tue May 26 13:00:45 UTC 2026 x86_64 -> Linux server-master1 6.8.0-124-generic #124-Ubuntu SMP PREEMPT_DYNAMIC Tue May 26 13:00:45 UTC 2026 x86_64,1
+Location: MLG,1
+ifDescr:  -> ppp238,1
+OS Version: 2026.05.09-0042-rolling,1
+OS Version: 6.17.2-1-pve -> 6.17.13-2-pve,1
+OS Version: 6.8.0-111-generic -> 6.8.0-124-generic,1
+Polling took longer than 5 minutes!  This will cause gaps in graphs.,1
+Processor Discovered: hr 1 Processor,1
+Processor Discovered: hr 10 Processor,1
+ifDescr:  -> ppp244,1
+ifDescr:  -> ppp245,1
+Processor Discovered: hr 11 Processor,1
+Processor Discovered: hr 12 Processor,1
+Processor Discovered: hr 196608 Intel Core i7-14700,1
+ifDescr:  -> ppp249,1
+Processor Discovered: hr 196609 Intel Core i7-14700,1
+Processor Discovered: hr 196610 Intel Core i7-14700,1
+ifDescr:  -> ppp251,1
+ifDescr:  -> ppp252,1
+Processor Discovered: hr 196611 Intel Core i7-14700,1
+Processor Discovered: hr 196612 Intel Core i7-14700,1
+Processor Discovered: hr 196613 Intel Core i7-14700,1
+ifDescr:  -> ppp256,1
+ifDescr:  -> ppp257,1
+Processor Discovered: hr 196614 Intel Core i7-14700,1
+Processor Discovered: hr 196615 Intel Core i7-14700,1
+Processor Discovered: hr 196616 Intel Core i7-14700,1
+Processor Discovered: hr 196617 Intel Core i7-14700,1
+ifDescr:  -> ppp261,1
+Processor Discovered: hr 196618 Intel Core i7-14700,1
+Processor Discovered: hr 196619 Intel Core i7-14700,1
+Processor Discovered: hr 196620 Intel Core i7-14700,1
+Processor Discovered: hr 196621 Intel Core i7-14700,1
+Processor Discovered: hr 196622 Intel Core i7-14700,1
+Processor Discovered: hr 196623 Intel Core i7-14700,1
+ifDescr:  -> ppp268,1
+Processor Discovered: hr 196624 Intel Core i7-14700,1
+Processor Discovered: hr 196625 Intel Core i7-14700,1
+Processor Discovered: hr 196626 Intel Core i7-14700,1
+ifDescr:  -> ppp271,1
+ifDescr:  -> ppp272,1
+Processor Discovered: hr 196627 Intel Core i7-14700,1
+Processor Discovered: hr 196628 Intel Core i7-14700,1
+Processor Discovered: hr 196629 Intel Core i7-14700,1
+Processor Discovered: hr 196630 Intel Core i7-14700,1
+Processor Discovered: hr 196631 Intel Core i7-14700,1
+ifDescr:  -> ppp278,1
+ifDescr:  -> ppp279,1
+Processor Discovered: hr 196632 Intel Core i7-14700,1
+Processor Discovered: hr 196633 Intel Core i7-14700,1
+ifDescr:  -> ppp281,1
+ifDescr:  -> ppp282,1
+ifDescr:  -> ppp283,1
+ifDescr:  -> ppp284,1
+Processor Discovered: hr 196634 Intel Core i7-14700,1
+ifDescr:  -> ppp286,1
+ifDescr:  -> ppp287,1
+Processor Discovered: hr 196635 Intel Core i7-14700,1
+ifDescr:  -> ppp289,1
+Processor Discovered: hr 2 Processor,1
+Processor Discovered: hr 3 Processor,1
+Processor Discovered: hr 4 Processor,1
+Processor Discovered: hr 5 Processor,1
+Processor Discovered: hr 6 Processor,1
+Processor Discovered: hr 7 Processor,1
+Processor Discovered: hr 8 Processor,1
+ifDescr:  -> ppp296,1
+Processor Discovered: hr 9 Processor,1
+Processor Discovered: zxa10 1.1.0 PRWG Processor,1
+Processor Discovered: zxa10 1.1.1 PRWG Processor,1
+Processor Discovered: zxa10 1.1.10 SFUC Processor,1
+Processor Discovered: zxa10 1.1.11 SFUC Processor,1
+Processor Discovered: zxa10 1.1.18 PRVR Processor,1
+ifDescr:  -> ppp301,1
+Processor Discovered: zxa10 1.1.2 GFBL Processor,1
+Processor Discovered: zxa10 1.1.20 PRVR Processor,1
+Processor Discovered: zxa10 1.1.21 FCVDE-I Processor,1
+Processor Removed: hr 1 Processor,1
+Processor Removed: hr 10 Processor,1
+ifDescr:  -> ppp307,1
+ifDescr:  -> ppp308,1
+ifDescr:  -> ppp309,1
+Processor Removed: hr 11 Processor,1
+ifDescr:  -> ppp310,1
+ifDescr:  -> ppp311,1
+Processor Removed: hr 12 Processor,1
+ifDescr:  -> ppp313,1
+Processor Removed: hr 2 Processor,1
+Processor Removed: hr 3 Processor,1
+ifDescr:  -> ppp316,1
+Processor Removed: hr 4 Processor,1
+Processor Removed: hr 5 Processor,1
+Processor Removed: hr 6 Processor,1
+ifDescr:  -> ppp320,1
+Processor Removed: hr 7 Processor,1
+Processor Removed: hr 8 Processor,1
+ifDescr:  -> ppp323,1
+Processor Removed: hr 9 Processor,1
+Processor Removed: zxa10 1.1.0 PRWG Processor,1
+Processor Removed: zxa10 1.1.1 PRWG Processor,1
+STP designated root changed: 049fcaf2c781 > 3cc786244610,1
+STP designated root changed: 0cc6ccf90a71 > 50464a704831,1
+STP designated root changed: 50464a704831 > 049fcaf2c781,1
+STP designated root changed: 50464a704831 > 3cc786244610,1
+ifDescr:  -> ppp330,1
+ifDescr:  -> ppp331,1
+ifDescr:  -> ppp332,1
+STP topology changed after: 1 week 2 days 17 hours 18 minutes,1
+ifDescr:  -> ppp334,1
+ifDescr:  -> ppp335,1
+STP topology changed after: 1 week 2 days 17 hours 19 minutes,1
+STP topology changed after: 22 minutes 25 seconds,1
+ifDescr:  -> ppp338,1
+STP topology changed after: 22 minutes 34 seconds,1
+Sensor Added: current cisco-entity-sensor 300072164 Ethernet1/42 Lane 1 Transceiver Bias Current,1
+Sensor Added: current cisco-entity-sensor 300075684 Ethernet1/44 Lane 1 Transceiver Bias Current,1
+Sensor Added: current routeros mtxrOpticalTxBiasCurrent.4 sfp4 Tx Bias,1
+Sensor Added: current zxa10 1.1.0 Current Card PRWH,1
+Sensor Added: current zxa10 1.1.11 Current Card SCXNT00,1
+Sensor Added: dbm cisco-entity-sensor 300072173 Ethernet1/42 Lane 1 Transceiver Receive Power,1
+ifDescr:  -> ppp345,1
+ifDescr:  -> ppp346,1
+ifDescr:  -> ppp347,1
+ifDescr:  -> ppp348,1
+ifDescr:  -> ppp349,1
+Sensor Added: dbm cisco-entity-sensor 300072174 Ethernet1/42 Lane 1 Transceiver Transmit Power,1
+Sensor Added: dbm cisco-entity-sensor 300075693 Ethernet1/44 Lane 1 Transceiver Receive Power,1
+Sensor Added: dbm cisco-entity-sensor 300075694 Ethernet1/44 Lane 1 Transceiver Transmit Power,1
+Sensor Added: dbm routeros mtxrOpticalRxPower.4 sfp4 Rx,1
+Sensor Added: dbm routeros mtxrOpticalTxPower.4 sfp4 Tx,1
+Sensor Added: fanspeed qnap systemPowerFanSpeed.1 PSU 1,1
+Sensor Added: fanspeed qnap systemPowerFanSpeed.2 PSU 2,1
+Sensor Added: fanspeed qnap systemPowerFanSpeed.3 PSU 1,1
+ifDescr:  -> ppp357,1
+ifDescr:  -> ppp358,1
+Sensor Added: fanspeed qnap systemPowerFanSpeed.4 PSU 1,1
+Sensor Added: power zxa10 1.1.0 Power Consumption Card PRWH,1
+Sensor Added: power zxa10 1.1.11 Power Consumption Card SCXNT00,1
+ifDescr:  -> ppp361,1
+Sensor Added: state mtxrOpticalRxLoss mtxrOpticalRxLoss.4 sfp4 Rx,1
+ifDescr:  -> ppp363,1
+ifDescr:  -> ppp364,1
+Sensor Added: state mtxrOpticalTxFault mtxrOpticalTxFault.4 sfp4 Tx,1
+ifDescr:  -> ppp366,1
+Sensor Added: state systemPowerStatus systemPowerStatus.1 PSU 1,1
+ifDescr:  -> ppp368,1
+ifDescr:  -> ppp369,1
+ifDescr:  -> ppp37,1
+Sensor Added: state systemPowerStatus systemPowerStatus.2 PSU 2,1
+ifDescr:  -> ppp371,1
+Sensor Added: state systemPowerStatus systemPowerStatus.3 PSU 3,1
+ifDescr:  -> ppp373,1
+ifDescr:  -> ppp374,1
+ifDescr:  -> ppp375,1
+Sensor Added: state systemPowerStatus systemPowerStatus.4 PSU 4,1
+Sensor Added: temperature cisco-entity-sensor 300072167 Ethernet1/42 Lane 1 Transceiver,1
+ifDescr:  -> ppp378,1
+Sensor Added: temperature cisco-entity-sensor 300075687 Ethernet1/44 Lane 1 Transceiver,1
+Sensor Added: temperature lmsensors 1 Package id 0,1
+ifDescr:  -> ppp380,1
+ifDescr:  -> ppp381,1
+Sensor Added: temperature lmsensors 10 Core 32,1
+Sensor Added: temperature lmsensors 11 Core 33,1
+Sensor Added: temperature lmsensors 12 Core 34,1
+Sensor Added: temperature lmsensors 13 Core 35,1
+Sensor Added: temperature lmsensors 14 Core 36,1
+ifDescr:  -> ppp387,1
+ifDescr:  -> ppp388,1
+Sensor Added: temperature lmsensors 15 Core 37,1
+Sensor Added: temperature lmsensors 16 Core 38,1
+Sensor Added: temperature lmsensors 17 Core 39,1
+ifDescr:  -> ppp391,1
+ifDescr:  -> ppp392,1
+ifDescr:  -> ppp393,1
+Sensor Added: temperature lmsensors 18 Core 40,1
+Sensor Added: temperature lmsensors 19 Core 41,1
+ifDescr:  -> ppp396,1
+ifDescr:  -> ppp397,1
+ifDescr:  -> ppp398,1
+Sensor Added: temperature lmsensors 2 Core 0,1
+Sensor Added: temperature lmsensors 20 Core 42,1
+Sensor Added: temperature lmsensors 21 Core 43,1
+ifDescr:  -> ppp400,1
+Sensor Added: temperature lmsensors 3 Core 4,1
+ifDescr:  -> ppp402,1
+ifDescr:  -> ppp403,1
+Sensor Added: temperature lmsensors 4 Core 8,1
+Sensor Added: temperature lmsensors 5 Core 12,1
+Sensor Added: temperature lmsensors 6 Core 16,1
+Sensor Added: temperature lmsensors 7 Core 20,1
+ifDescr:  -> ppp408,1
+ifDescr:  -> ppp409,1
+Sensor Added: temperature lmsensors 8 Core 24,1
+ifDescr:  -> ppp410,1
+ifDescr:  -> ppp411,1
+ifDescr:  -> ppp412,1
+ifDescr:  -> ppp413,1
+ifDescr:  -> ppp414,1
+ifDescr:  -> ppp415,1
+ifDescr:  -> ppp416,1
+ifDescr:  -> ppp417,1
+ifDescr:  -> ppp418,1
+ifDescr:  -> ppp419,1
+Sensor Added: temperature lmsensors 9 Core 28,1
+ifDescr:  -> ppp420,1
+ifDescr:  -> ppp421,1
+Sensor Added: temperature qnap cpuTemp.0 CPU,1
+Sensor Added: temperature routeros mtxrOpticalTemperature.4 sfp4,1
+ifDescr:  -> ppp45,1
+ifDescr:  -> ppp46,1
+Sensor Added: temperature zxa10 1.1.0 Temp Card PRWG,1
+Sensor Added: temperature zxa10 1.1.1 Temp Card PRWG,1
+Sensor Added: voltage cisco-entity-sensor 300072163 Ethernet1/42 Lane 1 Transceiver Voltage,1
+Sensor Added: voltage cisco-entity-sensor 300075683 Ethernet1/44 Lane 1 Transceiver Voltage,1
+Sensor Added: voltage routeros mtxrOpticalSupplyVoltage.4 sfp4,1
+Sensor Added: voltage zxa10 1.1.0 Voltage Card PRWH,1
+Sensor Added: voltage zxa10 1.1.11 Voltage Card SCXNT00,1
+Sensor Updated: temperature zxa10 1.1.10 Temp Card SCXNT00,1
+Sensor Updated: temperature zxa10 1.1.11 Temp Card SCXNT00,1
+Server - ApiBCA Production 1.1 (State) -> 1,1
+Server - MoniBackend (GuestOS) -> Linux 6.8.0-124-generic Ubuntu 24.04.4 LTS Ubuntu 24.04 24.04.4 LTS (Noble Numbat),1
+State sensor PowerSupply-2 Fan-1 has changed from down(3) to up (2),1
+State sensor PowerSupply-2 Fan-1 has changed from up(2) to down (3),1
+ifDescr:  -> ppp60,1
+ifDescr:  -> ppp62,1
+State sensor PowerSupply-2 has changed from off (environmental)(5) to on (2),1
+State sensor PowerSupply-2 has changed from on(2) to off (environmental) (5),1
+State sensor psu2-state has changed from fail(1) to ok (0),1
+State sensor psu2-state has changed from ok(0) to fail (1),1
+State sensor sfp4 Rx has changed from yes(1) to no (0),1
+Temperature above threshold: -25 °C (> -980 °C),1
+ifDescr:  -> ppp69,1
+Temperature above threshold: -29 °C (> -980 °C),1
+Temperature above threshold: -30 °C (> -980 °C),1
+ifDescr:  -> ppp71,1
+ifDescr:  -> ppp72,1
+Temperature above threshold: -31 °C (> -980 °C),1
+ifDescr:  -> ppp76,1
+Temperature above threshold: -34 °C (> -980 °C),1
+Temperature above threshold: -35 °C (> -980 °C),1
+Temperature above threshold: -41 °C (> -980 °C),1
+Temperature above threshold: -7 °C (> -980 °C),1
+Temperature above threshold: 41 °C (> 40 °C),1
+Temperature above threshold: 42 °C (> 40 °C),1
+Temperature above threshold: 51 °C (> 49 °C),1
+Temperature above threshold: 52 °C (> 49 °C),1
+Temperature above threshold: 53 °C (> 49 °C),1
+Temperature above threshold: 57 °C (> 49 °C),1
+Temperature above threshold: 59 °C (> 46 °C),1
+Temperature above threshold: 59 °C (> 55 °C),1
+Temperature above threshold: 60 °C (> 49 °C),1
+Temperature under threshold: -1000 °C (< 22 °C),1
+Temperature under threshold: 0 °C (< 18 °C),1
+Temperature under threshold: 0 °C (< 23 °C),1
+ifDescr:  -> ppp94,1
+Temperature under threshold: 0 °C (< 37 °C),1
+Temperature under threshold: 0 °C (< 41 °C),1
+ifDescr:  -> ppp97,1
+Temperature under threshold: 29 °C (< 33 °C),1
+Virtual Machine added: Server - 71.220 (16384 GB / 16 vCPU),1
+ifDescr:  -> sfp4,1
+ifDescr:  -> veth0095b5b,1
+ifDescr:  -> veth0116feb,1
+ifDescr:  -> veth0220954,1
+ifDescr:  -> veth02ce483,1
+ifDescr:  -> veth03cb0b7,1
+ifDescr:  -> veth03ce291,1
+ifDescr:  -> veth0646021,1
+ifDescr:  -> veth065b90a,1
+ifDescr:  -> veth0818770,1
+ifDescr:  -> veth09e2aee,1
+ifDescr:  -> veth0ba2029,1
+ifDescr:  -> veth0bca8da,1
+ifDescr:  -> veth0bfaae1,1
+ifDescr:  -> veth0c9fd9f,1
+ifDescr:  -> veth0cca332,1
+ifDescr:  -> veth0d9314d,1
+ifDescr:  -> veth0ddf6d4,1
+ifDescr:  -> veth100e996,1
+ifDescr:  -> veth10e8980,1
+ifDescr:  -> veth1149328,1
+ifDescr:  -> veth1232627,1
+ifDescr:  -> veth1265120,1
+ifDescr:  -> veth13718ce,1
+ifDescr:  -> veth13d33e3,1
+ifDescr:  -> veth145d98b,1
+ifDescr:  -> veth14d13fd,1
+ifDescr:  -> veth16ca4f0,1
+ifDescr:  -> veth16d6050,1
+ifDescr:  -> veth172355a,1
+ifDescr:  -> veth1781a3a,1
+ifDescr:  -> veth17d76a4,1
+ifDescr:  -> veth1805b30,1
+ifDescr:  -> veth18880f1,1
+ifDescr:  -> veth18a96c3,1
+ifDescr:  -> veth1a64905,1
+ifDescr:  -> veth1bf96c5,1
+ifDescr:  -> veth1d162a0,1
+ifDescr:  -> veth1e0e5b5,1
+ifDescr:  -> veth1f1b75c,1
+ifDescr:  -> veth1fbc22e,1
+ifDescr:  -> veth20b7808,1
+ifDescr:  -> veth2184d14,1
+ifDescr:  -> veth21e056e,1
+ifDescr:  -> veth21e4774,1
+ifDescr:  -> veth239370b,1
+ifDescr:  -> veth2442dc3,1
+ifDescr:  -> veth245207d,1
+ifDescr:  -> veth24fdce2,1
+ifDescr:  -> veth26e40c2,1
+ifDescr:  -> veth2705bf4,1
+ifDescr:  -> veth27cea92,1
+ifDescr:  -> veth288997a,1
+ifDescr:  -> veth2b84487,1
+ifDescr:  -> veth2b92620,1
+ifDescr:  -> veth2c44c1b,1
+ifDescr:  -> veth2d0ed07,1
+ifDescr:  -> veth2d6ec1b,1
+ifDescr:  -> veth2d8502d,1
+ifDescr:  -> veth2de09b0,1
+ifDescr:  -> veth2eb2c76,1
+ifDescr:  -> veth2ee859d,1
+ifDescr:  -> veth2f6fc4d,1
+ifDescr:  -> veth34814a7,1
+ifDescr:  -> veth34b03dd,1
+ifDescr:  -> veth352f3a8,1
+ifDescr:  -> veth3554660,1
+ifDescr:  -> veth359ea1a,1
+ifDescr:  -> veth35dcfe8,1
+ifDescr:  -> veth35e5257,1
+ifDescr:  -> veth37387ad,1
+ifDescr:  -> veth3a52907,1
+ifDescr:  -> veth3a5372e,1
+ifDescr:  -> veth3acc0ed,1
+ifDescr:  -> veth3b7b84b,1
+ifDescr:  -> veth3b8b479,1
+ifDescr:  -> veth3c33029,1
+ifDescr:  -> veth3d054db,1
+ifDescr:  -> veth3d2b94a,1
+ifDescr:  -> veth3dbfb35,1
+ifDescr:  -> veth3f456b0,1
+ifDescr:  -> veth403bfcd,1
+ifDescr:  -> veth408e569,1
+ifDescr:  -> veth4144a1b,1
+ifDescr:  -> veth4286c4f,1
+ifDescr:  -> veth4352dd5,1
+ifDescr:  -> veth4367a0c,1
+ifDescr:  -> veth4433400,1
+ifDescr:  -> veth45159b7,1
+ifDescr:  -> veth4594dfe,1
+ifDescr:  -> veth46af24f,1
+ifDescr:  -> veth47151e9,1
+ifDescr:  -> veth4a7b9e6,1
+ifDescr:  -> veth4ba776d,1
+ifDescr:  -> veth4bec1be,1
+ifDescr:  -> veth4bf273b,1
+ifDescr:  -> veth4c013f3,1
+ifDescr:  -> veth4ca63a6,1
+ifDescr:  -> veth4cbf49c,1
+ifDescr:  -> veth4d5c97f,1
+ifDescr:  -> veth4d76346,1
+ifDescr:  -> veth4d8a0bf,1
+ifDescr:  -> veth4dfac53,1
+ifDescr:  -> veth4e7e786,1
+ifDescr:  -> veth4f1f309,1
+ifDescr:  -> veth5088412,1
+ifDescr:  -> veth5223341,1
+ifDescr:  -> veth52bec62,1
+ifDescr:  -> veth53079c5,1
+ifDescr:  -> veth543927e,1
+ifDescr:  -> veth5444106,1
+ifDescr:  -> veth5444fbb,1
+ifDescr:  -> veth553bfe1,1
+ifDescr:  -> veth55f4a84,1
+ifDescr:  -> veth56a6bf6,1
+ifDescr:  -> veth57a2d35,1
+ifDescr:  -> veth5837fd2,1
+ifDescr:  -> veth5854f3c,1
+ifDescr:  -> veth58b07fc,1
+ifDescr:  -> veth592ffd7,1
+ifDescr:  -> veth5a73b9d,1
+ifDescr:  -> veth5add754,1
+ifDescr:  -> veth5b8f937,1
+ifDescr:  -> veth5c32807,1
+ifDescr:  -> veth5e3407c,1
+ifDescr:  -> veth5e8c6f7,1
+ifDescr:  -> veth5eb475c,1
+ifDescr:  -> veth5f6db76,1
+ifDescr:  -> veth5f89b1f,1
+ifDescr:  -> veth6131752,1
+ifDescr:  -> veth6135996,1
+ifDescr:  -> veth6156afa,1
+ifDescr:  -> veth617b2a7,1
+ifDescr:  -> veth63afe4e,1
+ifDescr:  -> veth6424290,1
+ifDescr:  -> veth64ab041,1
+ifDescr:  -> veth6661b21,1
+ifDescr:  -> veth66e6b70,1
+ifDescr:  -> veth66e8530,1
+ifDescr:  -> veth676942e,1
+ifDescr:  -> veth68284cc,1
+ifDescr:  -> veth6829a6a,1
+ifDescr:  -> veth684374b,1
+ifDescr:  -> veth68d613b,1
+ifDescr:  -> veth68e906e,1
+ifDescr:  -> veth691b0d5,1
+ifDescr:  -> veth695dad4,1
+ifDescr:  -> veth6978a36,1
+ifDescr:  -> veth69baf84,1
+ifDescr:  -> veth6a8f573,1
+ifDescr:  -> veth6c33d3e,1
+ifDescr:  -> veth6d33522,1
+ifDescr:  -> veth6d8b1e5,1
+ifDescr:  -> veth6e9f205,1
+ifDescr:  -> veth7060a42,1
+ifDescr:  -> veth70f6746,1
+ifDescr:  -> veth710e3bc,1
+ifDescr:  -> veth71169b3,1
+ifDescr:  -> veth727496f,1
+ifDescr:  -> veth7421703,1
+ifDescr:  -> veth782041f,1
+ifDescr:  -> veth79cd6a8,1
+ifDescr:  -> veth79f00a7,1
+ifDescr:  -> veth7a7369f,1
+ifDescr:  -> veth7b22466,1
+ifDescr:  -> veth7b854ef,1
+ifDescr:  -> veth7cf7761,1
+ifDescr:  -> veth7d6cbf6,1
+ifDescr:  -> veth7e9dea2,1
+ifDescr:  -> veth7f4d8ba,1
+ifDescr:  -> veth7f6c660,1
+ifDescr:  -> veth80f50cb,1
+ifDescr:  -> veth8173263,1
+ifDescr:  -> veth81bc3b0,1
+ifDescr:  -> veth82a3abd,1
+ifDescr:  -> veth82a743c,1
+ifDescr:  -> veth83c224a,1
+ifDescr:  -> veth858bb5e,1
+ifDescr:  -> veth86d07dc,1
+ifDescr:  -> veth86f784f,1
+ifDescr:  -> veth87a5b33,1
+ifDescr:  -> veth8827c6c,1
+ifDescr:  -> veth89e5de6,1
+ifDescr:  -> veth8a494a0,1
+ifDescr:  -> veth8b5e7df,1
+ifDescr:  -> veth8d63a07,1
+ifDescr:  -> veth8fd2162,1
+ifDescr:  -> veth903d69c,1
+ifDescr:  -> veth90d725f,1
+ifDescr:  -> veth913a2f0,1
+ifDescr:  -> veth91f7d88,1
+ifDescr:  -> veth92a15e7,1
+ifDescr:  -> veth92a4476,1
+ifDescr:  -> veth932f9ce,1
+ifDescr:  -> veth939ecff,1
+ifDescr:  -> veth94782bb,1
+ifDescr:  -> veth947f7c2,1
+ifDescr:  -> veth94b1a73,1
+ifDescr:  -> veth9535f23,1
+ifDescr:  -> veth95bb189,1
+ifDescr:  -> veth970d5b4,1
+ifDescr:  -> veth977ec4d,1
+ifDescr:  -> veth985c978,1
+ifDescr:  -> veth9947dc0,1
+ifDescr:  -> veth99613a8,1
+ifDescr:  -> veth9a1cb87,1
+ifDescr:  -> veth9a7251b,1
+ifDescr:  -> veth9a73dd6,1
+ifDescr:  -> veth9a9b3f8,1
+ifDescr:  -> veth9aa1d6b,1
+ifDescr:  -> veth9aada82,1
+ifDescr:  -> veth9abb5ce,1
+ifDescr:  -> veth9cbb605,1
+ifDescr:  -> veth9d2b9d9,1
+ifDescr:  -> veth9d9c6ce,1
+ifDescr:  -> veth9e34936,1
+ifDescr:  -> veth9e5f0fb,1
+ifDescr:  -> veth9e9c50f,1
+ifDescr:  -> vetha0449aa,1
+ifDescr:  -> vetha0b19a3,1
+ifDescr:  -> vetha1378c6,1
+ifDescr:  -> vetha1a1ea7,1
+ifDescr:  -> vetha238a2a,1
+ifDescr:  -> vetha33f743,1
+ifDescr:  -> vetha3c190d,1
+ifDescr:  -> vetha4f5a87,1
+ifDescr:  -> vetha691fc9,1
+ifDescr:  -> vetha8553e9,1
+ifDescr:  -> vetha948a60,1
+ifDescr:  -> vetha9bd625,1
+ifDescr:  -> vethaa83059,1
+ifDescr:  -> vethaa8e799,1
+ifDescr:  -> vethaace319,1
+ifDescr:  -> vethaaf82fa,1
+ifDescr:  -> vethab0689a,1
+ifDescr:  -> vethab4ff1c,1
+ifDescr:  -> vethab91e6f,1
+ifDescr:  -> vethac0ecf0,1
+ifDescr:  -> vethacf1f4a,1
+ifDescr:  -> vethacf224b,1
+ifDescr:  -> vethad4a079,1
+ifDescr:  -> vethaf18a6b,1
+ifDescr:  -> vethafbc7f0,1
+ifDescr:  -> vethafc5ca7,1
+ifDescr:  -> vethb09db35,1
+ifDescr:  -> vethb0cb6ee,1
+ifDescr:  -> vethb1a87a6,1
+ifDescr:  -> vethb1ff971,1
+ifDescr:  -> vethb21832f,1
+ifDescr:  -> vethb23ac8e,1
+ifDescr:  -> vethb23ec8d,1
+ifDescr:  -> vethb30bfed,1
+ifDescr:  -> vethb313349,1
+ifDescr:  -> vethb3ceb7b,1
+ifDescr:  -> vethb4bf7c8,1
+ifDescr:  -> vethb67cad3,1
+ifDescr:  -> vethb71f0e3,1
+ifDescr:  -> vethb764f69,1
+ifDescr:  -> vethb7c0b5e,1
+ifDescr:  -> vethb90286b,1
+ifDescr:  -> vethb956565,1
+ifDescr:  -> vethb97abfb,1
+ifDescr:  -> vethb9e65ec,1
+ifDescr:  -> vethbb07397,1
+ifDescr:  -> vethbbe791d,1
+ifDescr:  -> vethbc28615,1
+ifDescr:  -> vethbcb6bb3,1
+ifDescr:  -> vethbd9c95e,1
+ifDescr:  -> vethbe1ccf4,1
+ifDescr:  -> vethbff1828,1
+ifDescr:  -> vethbff7fb7,1
+ifDescr:  -> vethc013510,1
+ifDescr:  -> vethc098226,1
+ifDescr:  -> vethc0e8a9c,1
+ifDescr:  -> vethc21239b,1
+ifDescr:  -> vethc4009fb,1
+ifDescr:  -> vethc40a7e8,1
+ifDescr:  -> vethc5489f6,1
+ifDescr:  -> vethc57ca10,1
+ifDescr:  -> vethc620a25,1
+ifDescr:  -> vethc70ef69,1
+ifDescr:  -> vethc7466d6,1
+ifDescr:  -> vethc82b2f4,1
+ifDescr:  -> vethc92fd5d,1
+ifDescr:  -> vethc9d8e96,1
+ifDescr:  -> vethc9def0a,1
+ifDescr:  -> vethcb2ae1f,1
+ifDescr:  -> vethcbdbe03,1
+ifDescr:  -> vethcd088ed,1
+ifDescr:  -> vethcd8bc2f,1
+ifDescr:  -> vethcddc842,1
+ifDescr:  -> vethcfc95d1,1
+ifDescr:  -> vethd10a923,1
+ifDescr:  -> vethd170662,1
+ifDescr:  -> vethd2c1dac,1
+ifDescr:  -> vethd3a8ee1,1
+ifDescr:  -> vethd59c443,1
+ifDescr:  -> vethd5e0d00,1
+ifDescr:  -> vethd617d8b,1
+ifDescr:  -> vethd669b08,1
+ifDescr:  -> vethd79319a,1
+ifDescr:  -> vethd7e681d,1
+ifDescr:  -> vethda98a94,1
+ifDescr:  -> vethdac8a4c,1
+ifDescr:  -> vethdb6cc03,1
+ifDescr:  -> vethdb750e2,1
+ifDescr:  -> vethdbc4603,1
+ifDescr:  -> vethde031b7,1
+ifDescr:  -> vethdf53948,1
+ifDescr:  -> vethe04bb21,1
+ifDescr:  -> vethe0ab73a,1
+ifDescr:  -> vethe166914,1
+ifDescr:  -> vethe281adc,1
+ifDescr:  -> vethe29b56e,1
+ifDescr:  -> vethe395802,1
+ifDescr:  -> vethe4277f4,1
+ifDescr:  -> vethe4ac027,1
+ifDescr:  -> vethe7a5665,1
+ifDescr:  -> vethe7d4c4b,1
+ifDescr:  -> vethe81c0a0,1
+ifDescr:  -> vethe978e03,1
+ifDescr:  -> vethea3ad91,1
+ifDescr:  -> vetheab613b,1
+ifDescr:  -> vetheafdf68,1
+ifDescr:  -> vetheb76793,1
+ifDescr:  -> vethebdff49,1
+ifDescr:  -> vethebee9e6,1
+ifDescr:  -> vethebf0c09,1
+ifDescr:  -> vethec39092,1
+ifDescr:  -> vethec9beac,1
+ifDescr:  -> vethecfd75d,1
+ifDescr:  -> vethee2bba4,1
+ifDescr:  -> vethef664b4,1
+ifDescr:  -> vethefbba1d,1
+ifDescr:  -> vethf10bd58,1
+ifDescr:  -> vethf1fe693,1
+ifDescr:  -> vethf2cbd66,1
+ifDescr:  -> vethf493005,1
+ifDescr:  -> vethf4a833d,1
+ifDescr:  -> vethf5a0457,1
+ifDescr:  -> vethf5d60a3,1
+ifDescr:  -> vethf5f9b68,1
+ifDescr:  -> vethf6a3f21,1
+ifDescr:  -> vethf6b1b87,1
+ifDescr:  -> vethf6b7665,1
+ifDescr:  -> vethf7cbbf5,1
+ifDescr:  -> vethf834560,1
+ifDescr:  -> vethf8dac2c,1
+ifDescr:  -> vethfa3cde8,1
+ifDescr:  -> vethfb25880,1
+ifDescr:  -> vethfc08c74,1
+ifDescr:  -> vethfc7580b,1
+ifDescr:  -> vethfd814c7,1
+ifDescr:  -> vethfe0d328,1
+ifDescr:  -> vethfee2126,1
+ifDescr:  -> vlan109-SRV0009 devbriva,1
+ifDescr:  -> vlan110-SRV0010 apibriva,1
+ifDescr:  -> vlan111-SRV0011 billbcasyariah,1
+ifDescr:  -> vlan112-SRV0012 apibcas,1
+ifDescr:  -> vlan113-SRV0013 apibca,1
+ifDescr:  -> vlan114-SRV0014 devapibca,1
+ifDescr:  -> vlan115-SVR0015-EveNG,1
+ifDescr:  -> vlan116-SVR0016-ServerImage,1
+ifDescr:  -> vlan117-SVR0017-ServerPostgree,1
+ifDescr:  -> vlan1200-Vyospujo,1
+ifDescr:  -> vlan1680,1
+ifDescr:  -> vlan1711-Core MLG PAS-SBY-MLG,1
+ifDescr:  -> vlan1711-StarboyPAS Git,1
+ifDescr:  -> vlan1901-OLT KantorC600,1
+ifDescr:  -> vlan2211,1
+ifDescr:  -> vlan2211-Local EVE,1
+ifDescr:  -> vlan2502,1
+ifDescr:  -> xgei-1/10/1,1
+ifDescr:  -> xgei-1/10/2,1
+ifDescr:  -> xgei-1/10/3,1
+ifDescr:  -> xgei-1/10/4,1
+ifDescr:  -> xgei-1/11/1,1
+ifDescr:  -> xgei-1/11/2,1
+ifDescr:  -> xgei-1/11/3,1
+ifDescr:  -> xgei-1/11/4,1
+Voltage under threshold: 0 V (< 2.7 V),1
+Voltage under threshold: 0 V (< 2.8288 V),1
+Voltage under threshold: 0 V (< 3.045 V),1
+Voltage under threshold: 0 V (< 3.0583 V),1
+Voltage under threshold: 0 V (< 43.8345 V),1
+Voltage under threshold: 0 V (< 45.04745 V),1
+ifDescr: Sony tri wijaya Villa bukit tidar A4 No 113 6285335145321 -> gpon_1/4/6,1
+ifDescr: ether5_Server HP Proliant VYOS -> ether5_Server HP Proliant,1
+ifDescr: ether6 -> ether6-Proliant DL380 gen9,1
+dBm above threshold: 0 dBm (> -5.003 dBm),1
+dBm above threshold: 2.612 dBm (> 2.499 dBm),1
+dBm above threshold: 4.995 dBm (> 2.499 dBm),1
+dBm under threshold: -20 dBm (< -18.239 dBm),1
+dBm under threshold: -21.549 dBm (< -18.239 dBm),1
+dBm under threshold: -40 dBm (< -15.2 dBm),1
+ifDescr: gpon_olt-1/1/1 -> Damanhuri Jl Imam Bonjol Rt 04 Rw 03 Bugul Lor 6283895676147,1
+ifDescr: vlan109-SRV0009 devbriva -> vlan109-SRV0009 Briva,1
+ifDescr: vlan110-SRV0010 apibriva -> vlan110-SRV0010 BCAS,1
+ifDescr: vlan111-SRV0011 billbcasyariah -> vlan111-SRV0011 Dev-BCA,1
+ifDescr: vlan112-SRV0012 apibcas -> vlan112-SRV0012 Prod-BCA,1
+ifDescr: vlan113-SRV0013 apibca -> vlan113-SRV0013 Service API,1
+ifDescr: vlan2138-Core StarboyPAS toMLG -> vlan2138-Core StarboyPAS toMLG LINTAS,1
+dBm under threshold: -40 dBm (< -16.4 dBm),1
+ifDuplex:  -> unknown,1
+dBm under threshold: -40 dBm (< -18.01 dBm),1
+descr:  -> 1,1
+descr:  -> 48,1
+descr: 1 -> NULL,1
+descr: 48 -> NULL,1
+ifMtu:  -> 1452,1
+type: olt kantor 1/2/3 -> NULL,1
+ifAlias:  -> <pptp-LAN-PROLIANTX86-1>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-100>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-10>,1
+ifMtu:  -> 65536,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-11>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-12>,1
+ifMtu: 1450 -> NULL,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-13>,1
+ifMtu: 1500 -> 1300,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-14>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-15>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-16>,1
+ifName:  -> ppp118,1
+ifName:  -> ppp130,1
+ifName:  -> ppp142,1
+ifName:  -> ppp174,1
+ifName:  -> ppp176,1
+ifName:  -> ppp178,1
+ifName:  -> ppp18,1
+ifName:  -> ppp180,1
+ifName:  -> ppp186,1
+ifName:  -> ppp193,1
+ifName:  -> ppp208,1
+ifName:  -> ppp214,1
+ifName:  -> ppp228,1
+ifName:  -> ppp236,1
+ifName:  -> ppp239,1
+ifName:  -> ppp262,1
+ifName:  -> ppp27,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-17>,1
+ifName:  -> ppp290,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-18>,1
+ifName:  -> ppp306,1
+ifName:  -> ppp317,1
+ifName:  -> ppp327,1
+ifName:  -> ppp328,1
+ifName:  -> ppp340,1
+ifName:  -> ppp36,1
+ifName:  -> ppp370,1
+ifName:  -> ppp373,1
+ifName:  -> ppp374,1
+ifName:  -> ppp389,1
+ifName:  -> ppp390,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-19>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-1>,1
+ifName:  -> ppp65,1
+ifName:  -> ppp70,1
+ifName:  -> ppp78,1
+ifName:  -> ppp86,1
+ifName:  -> ppp87,1
+ifName:  -> ppp96,1
+ifName:  -> ppp98,1
+ifName:  -> ppp99,1
+ifName:  -> vethebf0c09,1
+ifName: ether5_Server HP Proliant VYOS -> ether5_Server HP Proliant,1
+ifName: ether6 -> ether6-Proliant DL380 gen9,1
+ifName: vlan109-SRV0009 devbriva -> vlan109-SRV0009 Briva,1
+ifName: vlan110-SRV0010 apibriva -> vlan110-SRV0010 BCAS,1
+ifName: vlan111-SRV0011 billbcasyariah -> vlan111-SRV0011 Dev-BCA,1
+ifName: vlan112-SRV0012 apibcas -> vlan112-SRV0012 Prod-BCA,1
+ifName: vlan113-SRV0013 apibca -> vlan113-SRV0013 Service API,1
+ifName: vlan2138-Core StarboyPAS toMLG -> vlan2138-Core StarboyPAS toMLG LINTAS,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-20>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-21>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-22>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-23>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-24>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-25>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-26>,1
+ifPhysAddress:  -> 020d8de8c58d,1
+ifPhysAddress:  -> 02626158560f,1
+ifPhysAddress:  -> 026501f7a30a,1
+ifPhysAddress:  -> 02a51f116b6f,1
+ifPhysAddress:  -> 02ca44f983e8,1
+ifPhysAddress:  -> 02ea98093483,1
+ifPhysAddress:  -> 062b5975a741,1
+ifPhysAddress:  -> 062f2597ff89,1
+ifPhysAddress:  -> 06d48fda4cd5,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-27>,1
+ifPhysAddress:  -> 0a1781373ea0,1
+ifPhysAddress:  -> 0a18a00ef55e,1
+ifPhysAddress:  -> 0a3dab250f6d,1
+ifPhysAddress:  -> 0a5f12584e66,1
+ifPhysAddress:  -> 0a65d906e6cf,1
+ifPhysAddress:  -> 0a858393800e,1
+ifPhysAddress:  -> 0a970df77b57,1
+ifPhysAddress:  -> 0aa04c9b8794,1
+ifPhysAddress:  -> 0ae7d3d6722a,1
+ifPhysAddress:  -> 0e24406baabf,1
+ifPhysAddress:  -> 0e2a9182ecdf,1
+ifPhysAddress:  -> 0e4f39cb6c50,1
+ifPhysAddress:  -> 0e605baa6047,1
+ifPhysAddress:  -> 0ea52f33f2d0,1
+ifPhysAddress:  -> 0ed6a5e72fbf,1
+ifPhysAddress:  -> 12016522fb6a,1
+ifPhysAddress:  -> 12078dbfda66,1
+ifPhysAddress:  -> 126e02f6964a,1
+ifPhysAddress:  -> 12702d3bcbd0,1
+ifPhysAddress:  -> 1287eb73d007,1
+ifPhysAddress:  -> 12a471328c8e,1
+ifPhysAddress:  -> 160b3c5cfeca,1
+ifPhysAddress:  -> 1646441c47af,1
+ifPhysAddress:  -> 16604fb9ca24,1
+ifPhysAddress:  -> 166199d7dfb4,1
+ifPhysAddress:  -> 167cc70c6c67,1
+ifPhysAddress:  -> 168fa16a3ef7,1
+ifPhysAddress:  -> 16a1ebd40608,1
+ifPhysAddress:  -> 16a599cc67dd,1
+ifPhysAddress:  -> 1a142a24198e,1
+ifPhysAddress:  -> 1a97c4d7b814,1
+ifPhysAddress:  -> 1a98ee7a9a43,1
+ifPhysAddress:  -> 1a9a5052c0aa,1
+ifPhysAddress:  -> 1ab8c8c89925,1
+ifPhysAddress:  -> 1ac5f96706e9,1
+ifPhysAddress:  -> 1aef0a9032db,1
+ifPhysAddress:  -> 1af430e53c6c,1
+ifPhysAddress:  -> 1e443c04c892,1
+ifPhysAddress:  -> 1e456e4bf3d4,1
+ifPhysAddress:  -> 1e65b9bb6c17,1
+ifPhysAddress:  -> 1e6b1f9a4f19,1
+ifPhysAddress:  -> 1ec4c4c1e852,1
+ifPhysAddress:  -> 1ed78d89278d,1
+ifPhysAddress:  -> 1eefa1b4afa9,1
+ifPhysAddress:  -> 1ef88a04964a,1
+ifPhysAddress:  -> 1efb25597764,1
+ifPhysAddress:  -> 2205b443569a,1
+ifPhysAddress:  -> 2215366dbf31,1
+ifPhysAddress:  -> 221e18bd8f8d,1
+ifPhysAddress:  -> 228a2cc0fba6,1
+ifPhysAddress:  -> 22c71669d46a,1
+ifPhysAddress:  -> 22d4cee71782,1
+ifPhysAddress:  -> 2629c5dc3703,1
+ifPhysAddress:  -> 264995f09b61,1
+ifPhysAddress:  -> 268c569fca70,1
+ifPhysAddress:  -> 268c7d44c1cf,1
+ifPhysAddress:  -> 2690e9539fd6,1
+ifPhysAddress:  -> 269be755612a,1
+ifPhysAddress:  -> 26d60a925082,1
+ifPhysAddress:  -> 26db30658d64,1
+ifPhysAddress:  -> 26dd9249d42e,1
+ifPhysAddress:  -> 2a05e7e03308,1
+ifPhysAddress:  -> 2a4e38af5551,1
+ifPhysAddress:  -> 2a65784c19f7,1
+ifPhysAddress:  -> 2a948f0d07ed,1
+ifPhysAddress:  -> 2e4d16a3e082,1
+ifPhysAddress:  -> 2e9f9aedf5b2,1
+ifPhysAddress:  -> 2ea56fe8c4b4,1
+ifPhysAddress:  -> 2eaffb140312,1
+ifPhysAddress:  -> 2ee47b6f470f,1
+ifPhysAddress:  -> 32094bc14cc7,1
+ifPhysAddress:  -> 321af8a58330,1
+ifPhysAddress:  -> 3239943051c9,1
+ifPhysAddress:  -> 32549697d721,1
+ifPhysAddress:  -> 32582fcbaacc,1
+ifPhysAddress:  -> 32800b2d4f55,1
+ifPhysAddress:  -> 32aba94d3e47,1
+ifPhysAddress:  -> 32b6f85436ac,1
+ifPhysAddress:  -> 32feeeb575e7,1
+ifPhysAddress:  -> 363d0ee8238c,1
+ifPhysAddress:  -> 367ed39d948f,1
+ifPhysAddress:  -> 36a2bc3e911a,1
+ifPhysAddress:  -> 36a44af2f79d,1
+ifPhysAddress:  -> 36f4d12df5a9,1
+ifPhysAddress:  -> 380e4daf0abe,1
+ifPhysAddress:  -> 3a0b1c001efb,1
+ifPhysAddress:  -> 3a14bc787394,1
+ifPhysAddress:  -> 3a2585e2f0df,1
+ifPhysAddress:  -> 3a94633753c8,1
+ifPhysAddress:  -> 3a96b0963ef7,1
+ifPhysAddress:  -> 3af63623ef92,1
+ifPhysAddress:  -> 3afda11ac67c,1
+ifPhysAddress:  -> 3e6f1eff0239,1
+ifPhysAddress:  -> 3e918c389ab5,1
+ifPhysAddress:  -> 3e924f511695,1
+ifPhysAddress:  -> 3eaceac171e1,1
+ifPhysAddress:  -> 3ebe120aafc1,1
+ifPhysAddress:  -> 3ec1abc02b3c,1
+ifPhysAddress:  -> 3ef26782bfc3,1
+ifPhysAddress:  -> 4264ea599c09,1
+ifPhysAddress:  -> 4269f95e6e59,1
+ifPhysAddress:  -> 428a0c32e397,1
+ifPhysAddress:  -> 4290e081a559,1
+ifPhysAddress:  -> 42aa7e145f09,1
+ifPhysAddress:  -> 42c0df23dd5f,1
+ifPhysAddress:  -> 46b57756d340,1
+ifPhysAddress:  -> 46d6f7fb7634,1
+ifPhysAddress:  -> 46d8e23ad7f9,1
+ifPhysAddress:  -> 46e6cf6b2a63,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-28>,1
+ifPhysAddress:  -> 48a98ad1e8ab,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-29>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-2>,1
+ifPhysAddress:  -> 4a3539d04339,1
+ifPhysAddress:  -> 4a7bf84376f2,1
+ifPhysAddress:  -> 4a8e55abc694,1
+ifPhysAddress:  -> 4ab5c279888b,1
+ifPhysAddress:  -> 4ac41c4e2f16,1
+ifPhysAddress:  -> 4ad872bc1083,1
+ifPhysAddress:  -> 4c5e0c4e1def,1
+ifPhysAddress:  -> 4c5e0c4e1df4,1
+ifPhysAddress:  -> 4e1e9146284c,1
+ifPhysAddress:  -> 4e512c937a3a,1
+ifPhysAddress:  -> 4eb593d88d6a,1
+ifPhysAddress:  -> 4eb83639b5e1,1
+ifPhysAddress:  -> 4ec276257e73,1
+ifPhysAddress:  -> 4ef95b2bbb61,1
+ifPhysAddress:  -> 525ad24209b4,1
+ifPhysAddress:  -> 5264b8434201,1
+ifPhysAddress:  -> 52694abf7c92,1
+ifPhysAddress:  -> 52e36aa849c9,1
+ifPhysAddress:  -> 52e9559c8b34,1
+ifPhysAddress:  -> 56228ae03ca5,1
+ifPhysAddress:  -> 56229b7b651e,1
+ifPhysAddress:  -> 5662d3bf4378,1
+ifPhysAddress:  -> 56658f714c57,1
+ifPhysAddress:  -> 568fccd96f03,1
+ifPhysAddress:  -> 569041a089fb,1
+ifPhysAddress:  -> 5692149e989a,1
+ifPhysAddress:  -> 5a15ad0940ff,1
+ifPhysAddress:  -> 5a1773280dfc,1
+ifPhysAddress:  -> 5a29b3f6b357,1
+ifPhysAddress:  -> 5a6ce2ed7c69,1
+ifPhysAddress:  -> 5a744520bd39,1
+ifPhysAddress:  -> 5a7ceee43dc7,1
+ifPhysAddress:  -> 5aa78488b9f1,1
+ifPhysAddress:  -> 5ad388e92958,1
+ifPhysAddress:  -> 5ad73669eb96,1
+ifPhysAddress:  -> 5af1bb618676,1
+ifPhysAddress:  -> 5cba2c5b6d28,1
+ifPhysAddress:  -> 5cba2c5b6d29,1
+ifPhysAddress:  -> 5e44ade35f6f,1
+ifPhysAddress:  -> 5e5843b8aaa5,1
+ifPhysAddress:  -> 5e5b18fbf31f,1
+ifPhysAddress:  -> 5e93518602ed,1
+ifPhysAddress:  -> 5eae94dcbcad,1
+ifPhysAddress:  -> 5ee9f8a4cf26,1
+ifPhysAddress:  -> 5efbfaaf88b4,1
+ifPhysAddress:  -> 5efe6eae91ab,1
+ifPhysAddress:  -> 62442256af73,1
+ifPhysAddress:  -> 62779924fe5e,1
+ifPhysAddress:  -> 629ecb715b73,1
+ifPhysAddress:  -> 62cd4a0e0835,1
+ifPhysAddress:  -> 62d98b3a6b1a,1
+ifPhysAddress:  -> 660f64b72f6b,1
+ifPhysAddress:  -> 66417ab8c7bd,1
+ifPhysAddress:  -> 668db11f73fd,1
+ifPhysAddress:  -> 6695f4465ae3,1
+ifPhysAddress:  -> 66c4e84a552f,1
+ifPhysAddress:  -> 66e66984de6b,1
+ifPhysAddress:  -> 6a32268f47a9,1
+ifPhysAddress:  -> 6a35e2ad2d44,1
+ifPhysAddress:  -> 6a65940b8f71,1
+ifPhysAddress:  -> 6a75f28dd8e6,1
+ifPhysAddress:  -> 6a85b7f60f29,1
+ifPhysAddress:  -> 6acf19d66920,1
+ifPhysAddress:  -> 6addec8c0e8b,1
+ifPhysAddress:  -> 6afe3a42ff2b,1
+ifPhysAddress:  -> 6e0645d0d9bc,1
+ifPhysAddress:  -> 6e0ca45ec719,1
+ifPhysAddress:  -> 6e23a5b537af,1
+ifPhysAddress:  -> 6e24b5dea503,1
+ifPhysAddress:  -> 6e30ffc9ab0c,1
+ifPhysAddress:  -> 6e3c10f7244e,1
+ifPhysAddress:  -> 6e44e6ca2733,1
+ifPhysAddress:  -> 6e8555e94746,1
+ifPhysAddress:  -> 6ec257f44348,1
+ifPhysAddress:  -> 6efc1aa04848,1
+ifPhysAddress:  -> 723573c084a8,1
+ifPhysAddress:  -> 726cb315362e,1
+ifPhysAddress:  -> 729b445bba9d,1
+ifPhysAddress:  -> 72e232f86501,1
+ifPhysAddress:  -> 7644c87a4a27,1
+ifPhysAddress:  -> 76657c4d9d06,1
+ifPhysAddress:  -> 76dc85c27fe6,1
+ifPhysAddress:  -> 7a3cada67764,1
+ifPhysAddress:  -> 7a6c1f6f0789,1
+ifPhysAddress:  -> 7aa30c551792,1
+ifPhysAddress:  -> 7ab94207e5a7,1
+ifPhysAddress:  -> 7af5ea74c1a7,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-30>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-31>,1
+ifPhysAddress:  -> 7e417e937b6f,1
+ifPhysAddress:  -> 7e587b625473,1
+ifPhysAddress:  -> 7e593b8fc9a6,1
+ifPhysAddress:  -> 7e5cab508e12,1
+ifPhysAddress:  -> 7e7f727fa292,1
+ifPhysAddress:  -> 7e8c2b45c338,1
+ifPhysAddress:  -> 7ec556449bc9,1
+ifPhysAddress:  -> 7ed003333be0,1
+ifPhysAddress:  -> 822f8debde89,1
+ifPhysAddress:  -> 8290f4c06cf2,1
+ifPhysAddress:  -> 82aed9853183,1
+ifPhysAddress:  -> 82bd074eb7ff,1
+ifPhysAddress:  -> 82c77e334344,1
+ifPhysAddress:  -> 8655e34ea82d,1
+ifPhysAddress:  -> 86f300c25d50,1
+ifPhysAddress:  -> 8a4914fcda50,1
+ifPhysAddress:  -> 8a4e73717a2e,1
+ifPhysAddress:  -> 8a5b51caa1e6,1
+ifPhysAddress:  -> 8a91b39425f5,1
+ifPhysAddress:  -> 8ad87dad0539,1
+ifPhysAddress:  -> 8e32d489b823,1
+ifPhysAddress:  -> 8e33c9b14393,1
+ifPhysAddress:  -> 8e7357f0a5ac,1
+ifPhysAddress:  -> 8e784ef124dc,1
+ifPhysAddress:  -> 8e893b780591,1
+ifPhysAddress:  -> 9213e1583a50,1
+ifPhysAddress:  -> 9254ef2a51cb,1
+ifPhysAddress:  -> 92824ce9eb75,1
+ifPhysAddress:  -> 92ac2127d36d,1
+ifPhysAddress:  -> 92b35899d8d2,1
+ifPhysAddress:  -> 92e2278716c9,1
+ifPhysAddress:  -> 96197b6d3c47,1
+ifPhysAddress:  -> 963fea585efe,1
+ifPhysAddress:  -> 96533ada6e14,1
+ifPhysAddress:  -> 9656c53663bf,1
+ifPhysAddress:  -> 96f04a9d4d28,1
+ifPhysAddress:  -> 9a4f312cc6a1,1
+ifPhysAddress:  -> 9a4f623df68a,1
+ifPhysAddress:  -> 9a87994779a8,1
+ifPhysAddress:  -> 9a89d146f540,1
+ifPhysAddress:  -> 9adbc42ab594,1
+ifPhysAddress:  -> 9ae23e0503da,1
+ifPhysAddress:  -> 9c6b0093b765,1
+ifPhysAddress:  -> 9e0806043de2,1
+ifPhysAddress:  -> 9e19c82e37bc,1
+ifPhysAddress:  -> 9e217096661c,1
+ifPhysAddress:  -> 9e26c61ce78e,1
+ifPhysAddress:  -> 9e3cbc0a4251,1
+ifPhysAddress:  -> 9e939abc9757,1
+ifPhysAddress:  -> 9ea3cc28acda,1
+ifPhysAddress:  -> 9efe00d93e1d,1
+ifPhysAddress:  -> a22e7fdcedf5,1
+ifPhysAddress:  -> a27a1eccb046,1
+ifPhysAddress:  -> a2976e73ca51,1
+ifPhysAddress:  -> a2b8466bce7c,1
+ifPhysAddress:  -> a2e3b640334a,1
+ifPhysAddress:  -> a60e77bfac4d,1
+ifPhysAddress:  -> a62c1bbfde80,1
+ifPhysAddress:  -> a651f08bbc61,1
+ifPhysAddress:  -> a674b729859a,1
+ifPhysAddress:  -> a67a7e796739,1
+ifPhysAddress:  -> a68e839abcc0,1
+ifPhysAddress:  -> a6a2a3824cde,1
+ifPhysAddress:  -> a6bc01df2883,1
+ifPhysAddress:  -> aa0eed5a8b80,1
+ifPhysAddress:  -> aa6389d3d7a4,1
+ifPhysAddress:  -> aa9885e3b8bb,1
+ifPhysAddress:  -> aa9a666dd2c9,1
+ifPhysAddress:  -> aa9f0c3685dc,1
+ifPhysAddress:  -> aaba35d6c312,1
+ifPhysAddress:  -> aaba44372902,1
+ifPhysAddress:  -> aad1fa35b8d1,1
+ifPhysAddress:  -> aad41bf17722,1
+ifPhysAddress:  -> aae130c6e8e5,1
+ifPhysAddress:  -> aafcc51af70d,1
+ifPhysAddress:  -> ae06a5f27b62,1
+ifPhysAddress:  -> ae1de7f1ba63,1
+ifPhysAddress:  -> ae3061426043,1
+ifPhysAddress:  -> ae5f33bbba4d,1
+ifPhysAddress:  -> ae61e41ddefd,1
+ifPhysAddress:  -> ae713b6d0d7d,1
+ifPhysAddress:  -> aebe2b720680,1
+ifPhysAddress:  -> aedb5b3b946d,1
+ifPhysAddress:  -> aee56964d159,1
+ifPhysAddress:  -> b235c65235a7,1
+ifPhysAddress:  -> b24c95a5863f,1
+ifPhysAddress:  -> b298bafe1bbe,1
+ifPhysAddress:  -> b29eddbfedb4,1
+ifPhysAddress:  -> b2a628fe7b8e,1
+ifPhysAddress:  -> b64de363b9bf,1
+ifPhysAddress:  -> b65b53e34ce0,1
+ifPhysAddress:  -> b66437829534,1
+ifPhysAddress:  -> b6c69dd60d51,1
+ifPhysAddress:  -> ba78fa9fb1b4,1
+ifPhysAddress:  -> ba9036aa8c3e,1
+ifPhysAddress:  -> ba9cae822969,1
+ifPhysAddress:  -> baea3c489bee,1
+ifPhysAddress:  -> be07e5c52042,1
+ifPhysAddress:  -> be36e70472bc,1
+ifPhysAddress:  -> be789180ee4a,1
+ifPhysAddress:  -> be7a30b8ecbd,1
+ifPhysAddress:  -> be95974dc1cc,1
+ifPhysAddress:  -> be97b9bcd7e3,1
+ifPhysAddress:  -> c2125fcbd774,1
+ifPhysAddress:  -> c230665ea1f1,1
+ifPhysAddress:  -> c24432d80c99,1
+ifPhysAddress:  -> c259e0c5e58f,1
+ifPhysAddress:  -> c2908b5a4a8e,1
+ifPhysAddress:  -> c29cc7f2f7d3,1
+ifPhysAddress:  -> c2b1f5dc26ed,1
+ifPhysAddress:  -> c2bc16879c3e,1
+ifPhysAddress:  -> c2ce9a0ba098,1
+ifPhysAddress:  -> c600c8fdc27a,1
+ifPhysAddress:  -> c60ed6aef671,1
+ifPhysAddress:  -> c624d1b6c7ee,1
+ifPhysAddress:  -> c63a9a5cf787,1
+ifPhysAddress:  -> c63b70f8365a,1
+ifPhysAddress:  -> c650ed591965,1
+ifPhysAddress:  -> c69015256d5c,1
+ifPhysAddress:  -> c692fbb47e50,1
+ifPhysAddress:  -> c6a49981abd2,1
+ifPhysAddress:  -> c6b3d2ccee22,1
+ifPhysAddress:  -> c6b600ae1500,1
+ifPhysAddress:  -> c6bf3077e573,1
+ifPhysAddress:  -> c6c2e2d9c9a9,1
+ifPhysAddress:  -> c6ddf79c1a6d,1
+ifPhysAddress:  -> ca1b46699bc8,1
+ifPhysAddress:  -> ca5ca672eb8d,1
+ifPhysAddress:  -> ca950566707f,1
+ifPhysAddress:  -> cab85b84ce09,1
+ifPhysAddress:  -> cac1ad12b9af,1
+ifPhysAddress:  -> caf72e10bde8,1
+ifPhysAddress:  -> caf7da98a7f3,1
+ifPhysAddress:  -> cafc36c85acf,1
+ifPhysAddress:  -> cc2de0bdce99,1
+ifPhysAddress:  -> ce207a1b728f,1
+ifPhysAddress:  -> ce2162797181,1
+ifPhysAddress:  -> ce37512f1eb9,1
+ifPhysAddress:  -> ce422d862eec,1
+ifPhysAddress:  -> ce4fc125da1d,1
+ifPhysAddress:  -> ce875d30088c,1
+ifPhysAddress:  -> cec8ad958b48,1
+ifPhysAddress:  -> ced09e7fc1b7,1
+ifPhysAddress:  -> ceddc97d94d3,1
+ifPhysAddress:  -> ceefe42bbade,1
+ifPhysAddress:  -> cef0cff374a1,1
+ifPhysAddress:  -> d23e5eac6f26,1
+ifPhysAddress:  -> d245d13387ff,1
+ifPhysAddress:  -> d25b38658d29,1
+ifPhysAddress:  -> d27e169840dc,1
+ifPhysAddress:  -> d27fcb19e0f6,1
+ifPhysAddress:  -> d2e9b9f8d187,1
+ifPhysAddress:  -> d2f32ba5a29c,1
+ifPhysAddress:  -> d6088ce37b62,1
+ifPhysAddress:  -> d60f747b769a,1
+ifPhysAddress:  -> d628201045e2,1
+ifPhysAddress:  -> d6282b1e31e6,1
+ifPhysAddress:  -> d631501a70ac,1
+ifPhysAddress:  -> d65caf2d1e59,1
+ifPhysAddress:  -> d686158ceae6,1
+ifPhysAddress:  -> d6c51b1e9d30,1
+ifPhysAddress:  -> d6c63be5962d,1
+ifPhysAddress:  -> d6d3b48c8af6,1
+ifPhysAddress:  -> d6eb071a47e0,1
+ifPhysAddress:  -> d6f514e07451,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-32>,1
+ifPhysAddress:  -> da6b1033ac7b,1
+ifPhysAddress:  -> da6ee525d0f4,1
+ifPhysAddress:  -> da851a395ba7,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-33>,1
+ifPhysAddress:  -> de0e1e0178c6,1
+ifPhysAddress:  -> de122d814235,1
+ifPhysAddress:  -> de2e0c9272df,1
+ifPhysAddress:  -> de4cbb6fac2f,1
+ifPhysAddress:  -> deafa6ef1707,1
+ifPhysAddress:  -> deb9fe6b50d6,1
+ifPhysAddress:  -> dec8c8fc6f7b,1
+ifPhysAddress:  -> e24e8673302b,1
+ifPhysAddress:  -> e2a641ba040b,1
+ifPhysAddress:  -> e2c674ab6ae4,1
+ifPhysAddress:  -> e2c97c091d1a,1
+ifPhysAddress:  -> e2f90e2b034e,1
+ifPhysAddress:  -> e41d2d1510f0,1
+ifPhysAddress:  -> e41d2d1510f1,1
+ifPhysAddress:  -> e604b8e21d43,1
+ifPhysAddress:  -> e61c09db21b8,1
+ifPhysAddress:  -> e6336fc0e593,1
+ifPhysAddress:  -> e64b26372aa8,1
+ifPhysAddress:  -> e65884a00bfe,1
+ifPhysAddress:  -> e67705386650,1
+ifPhysAddress:  -> e6aee29adc18,1
+ifPhysAddress:  -> ee25dc9fc629,1
+ifPhysAddress:  -> ee30a35a4658,1
+ifPhysAddress:  -> ee6b5c12f1c5,1
+ifPhysAddress:  -> eeba688f6c4b,1
+ifPhysAddress:  -> f234926fb85b,1
+ifPhysAddress:  -> f235d0083a88,1
+ifPhysAddress:  -> f238168c6012,1
+ifPhysAddress:  -> f284cba89530,1
+ifPhysAddress:  -> f2a487154d51,1
+ifPhysAddress:  -> f2bdcea6f8ba,1
+ifPhysAddress:  -> f2de8e4e832e,1
+ifPhysAddress:  -> f2ed397f1ecb,1
+ifPhysAddress:  -> f2f79f1cda86,1
+ifPhysAddress:  -> f609a5401881,1
+ifPhysAddress:  -> f60d95b7eb1a,1
+ifPhysAddress:  -> f62e173ca871,1
+ifPhysAddress:  -> f69e3f382f78,1
+ifPhysAddress:  -> fa0657b64c24,1
+ifPhysAddress:  -> fa17cb0a12e6,1
+ifPhysAddress:  -> fa530149737f,1
+ifPhysAddress:  -> fa7a7e13e7b4,1
+ifPhysAddress:  -> fa7bd5c8fd87,1
+ifPhysAddress:  -> faa1f775b3a7,1
+ifPhysAddress:  -> faaae288a6dc,1
+ifPhysAddress:  -> faad8826482c,1
+ifPhysAddress:  -> fae683008a8b,1
+ifPhysAddress:  -> faf772cf2c97,1
+ifPhysAddress:  -> fc5b26430630,1
+ifPhysAddress:  -> fe57a13ca75e,1
+ifPhysAddress:  -> fe6f701f2dcd,1
+ifPhysAddress:  -> feabcc5af410,1
+ifPhysAddress:  -> fef581b50053,1
+ifPhysAddress: 000000000000 -> 380e4daf0abd,1
+ifPhysAddress: 000000000000 -> 380e4daf0abe,1
+ifPhysAddress: 000000000000 -> 70db983252e8,1
+ifPhysAddress: 000000000000 -> 70db98325306,1
+ifPhysAddress: 000000000000 -> 70db98325307,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-34>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-35>,1
+ifPhysAddress: 0ed6a5e72fbf -> NULL,1
+ifPhysAddress: 380e4daf0abb -> 000000000000,1
+ifPhysAddress: 380e4daf0abb -> 380e4daf0abd,1
+ifPhysAddress: 380e4daf0abd -> 380e4daf0abb,1
+ifPhysAddress: 380e4daf0abe -> 000000000000,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-36>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-37>,1
+ifPhysAddress: 4ac06c7e6f46 -> 0a7a265acf84,1
+ifPhysAddress: 5a52b0279742 -> eadcc1de87ec,1
+ifPhysAddress: 5cba2c5b6d28 -> NULL,1
+ifPhysAddress: 5cba2c5b6d29 -> NULL,1
+ifPhysAddress: 70db983252e8 -> 000000000000,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-38>,1
+ifPhysAddress: 70db98325306 -> 70db98325307,1
+ifPhysAddress: 70db98325307 -> 70db98325306,1
+ifPhysAddress: eeb4c37401c2 -> 36019a27dc75,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-39>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-3>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-40>,1
+ifSpeed: 0 bps -> 10 Mbps,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-41>,1
+ifSpeed: 0 bps -> 20 Gbps,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-42>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-43>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-44>,1
+ifSpeed: 1 Gbps -> 100 Mbps,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-45>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-46>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-47>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-48>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-49>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-4>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-50>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-51>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-52>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-53>,1
+Current under threshold: 0 A (< 0.005 A),1
+ifAlias:  -> <pptp-RemoteMLGPAS2-54>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-55>,1
+ifType:  -> tunnel,1
+ifType: bridge -> NULL,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-56>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-57>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-58>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-59>,1
+ifType: propVirtual -> ieee8023adLag,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-5>,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-60>,1
+type:  -> mac inix,1
+type:  -> olt kantor 1/2/3,1
+type: mac inix -> NULL,1
+ifAlias:  -> <pptp-RemoteMLGPAS2-61>,1
+Device rebooted after 5 months 3 weeks 1 day 9 hours -> 246s,1
+Device 10.246.3.30 has been created,1
+Device 10.246.88.34 has been created,1
+Device 10.246.88.34 has been removed,1
+Device rebooted after 1 month 1 week 6 days 8 hours -> 310s,1
+Device rebooted after 1 month 3 days 15 hours 13 minutes -> 46s,1
+Device rebooted after 1 month 3 days 15 hours 26 minutes -> 57s,1
+Device rebooted after 1 month 6 days 8 hours 55 minutes -> 34s,1
+Device rebooted after 1 week 1 day 17 hours 20 minutes -> 95s,1
+Device rebooted after 2 hours 41 minutes 12 seconds -> 103s,1
+Device rebooted after 2 months 2 weeks 5 hours 53 minutes -> 323s,1
+Device rebooted after 3 months 6 days 8 hours 12 minutes -> 106s,1
+Device rebooted after 3 weeks 4 days 20 hours 33 minutes -> 50s,1
+Device rebooted after 4 days 20 hours 10 minutes 36 seconds -> 54s,1
+Device rebooted after 5 hours 27 minutes 42 seconds -> 113s,1
+Device 10.246.15.94 has been removed,1
