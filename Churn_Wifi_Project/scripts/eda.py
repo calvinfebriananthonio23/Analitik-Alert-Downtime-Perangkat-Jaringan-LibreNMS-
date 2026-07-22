@@ -161,8 +161,13 @@ print("\n===== NILAI SEVERITY =====")
 
 print(df["severity"].unique())
 
-# Severity LibreNMS sudah berupa angka
-df["severity_score"] = pd.to_numeric(df["severity"])
+# Konversi severity menjadi angka
+df["severity_score"] = (
+    pd.to_numeric(
+        df["severity"],
+        errors="coerce"
+    ).fillna(0)
+)
 
 priority = (
     df.groupby("hostname_y")
