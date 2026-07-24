@@ -1,0 +1,51 @@
+hostname,sysName,host,event_id,device_id,datetime,message,type,reference,username,severity
+117.103.68.166,ccr_omadata,33,488942,33,2026-06-06 00:39:45,Fanspeed under threshold: 4530 rpm (< 5232 rpm),fanspeed,1751,,4
+117.103.68.166,ccr_omadata,33,488943,33,2026-06-06 00:39:45,Fanspeed under threshold: 4290 rpm (< 4860 rpm),fanspeed,1752,,4
+10.246.88.18,vyos,48,488944,48,2026-06-06 00:43:38,ifDescr:  -> ppp0,interface,41361,,3
+10.246.88.18,vyos,48,488945,48,2026-06-06 00:43:38,ifAlias:  -> ppp0,interface,41361,,3
+10.246.88.18,vyos,48,488946,48,2026-06-06 00:43:38,ifAdminStatus:  -> up,interface,41361,,3
+10.246.88.18,vyos,48,488947,48,2026-06-06 00:43:38,ifOperStatus:  -> up,interface,41361,,3
+10.246.88.18,vyos,48,488948,48,2026-06-06 00:43:38,ifMtu:  -> 1492,interface,41361,,3
+10.246.88.18,vyos,48,488949,48,2026-06-06 00:43:38,ifType:  -> ppp,interface,41361,,3
+10.246.88.18,vyos,48,488950,48,2026-06-06 00:43:38,ifConnectorPresent:  -> true,interface,41361,,3
+117.103.68.166,ccr_omadata,33,488951,33,2026-06-06 01:04:52,Fanspeed under threshold: 4380 rpm (< 5232 rpm),fanspeed,1751,,4
+117.103.68.166,ccr_omadata,33,488952,33,2026-06-06 01:04:52,Fanspeed under threshold: 4140 rpm (< 4860 rpm),fanspeed,1752,,4
+10.246.88.18,vyos,48,488953,48,2026-06-06 01:13:41,ifDescr:  -> ppp0,interface,41362,,3
+10.246.88.18,vyos,48,488954,48,2026-06-06 01:13:41,ifAlias:  -> ppp0,interface,41362,,3
+10.246.88.18,vyos,48,488955,48,2026-06-06 01:13:41,ifAdminStatus:  -> up,interface,41362,,3
+10.246.88.18,vyos,48,488956,48,2026-06-06 01:13:41,ifOperStatus:  -> up,interface,41362,,3
+10.246.88.18,vyos,48,488957,48,2026-06-06 01:13:41,ifMtu:  -> 1492,interface,41362,,3
+10.246.88.18,vyos,48,488958,48,2026-06-06 01:13:41,ifType:  -> ppp,interface,41362,,3
+10.246.88.18,vyos,48,488959,48,2026-06-06 01:13:41,ifConnectorPresent:  -> true,interface,41362,,3
+10.246.15.202,superstar kapten naratel,21,488960,21,2026-06-06 01:17:29,Fanspeed under threshold: 2668 rpm (< 2754.4 rpm),fanspeed,632,,4
+117.103.68.166,ccr_omadata,33,488961,33,2026-06-06 01:34:56,Fanspeed under threshold: 4950 rpm (< 5232 rpm),fanspeed,1751,,4
+117.103.68.166,ccr_omadata,33,488962,33,2026-06-06 01:34:56,Fanspeed under threshold: 4680 rpm (< 4860 rpm),fanspeed,1752,,4
+10.246.88.18,vyos,48,488963,48,2026-06-06 01:43:44,ifDescr:  -> ppp0,interface,41363,,3
+10.246.88.18,vyos,48,488964,48,2026-06-06 01:43:44,ifAlias:  -> ppp0,interface,41363,,3
+10.246.88.18,vyos,48,488965,48,2026-06-06 01:43:44,ifAdminStatus:  -> up,interface,41363,,3
+10.246.88.18,vyos,48,488966,48,2026-06-06 01:43:44,ifOperStatus:  -> up,interface,41363,,3
+10.246.88.18,vyos,48,488967,48,2026-06-06 01:43:44,ifMtu:  -> 1492,interface,41363,,3
+10.246.88.18,vyos,48,488968,48,2026-06-06 01:43:44,ifType:  -> ppp,interface,41363,,3
+10.246.88.18,vyos,48,488969,48,2026-06-06 01:43:44,ifConnectorPresent:  -> true,interface,41363,,3
+10.246.88.18,vyos,48,488970,48,2026-06-06 02:13:47,ifDescr:  -> ppp0,interface,41364,,3
+10.246.88.18,vyos,48,488971,48,2026-06-06 02:13:47,ifAlias:  -> ppp0,interface,41364,,3
+10.246.88.18,vyos,48,488972,48,2026-06-06 02:13:47,ifAdminStatus:  -> up,interface,41364,,3
+10.246.88.18,vyos,48,488973,48,2026-06-06 02:13:47,ifOperStatus:  -> up,interface,41364,,3
+10.246.88.18,vyos,48,488974,48,2026-06-06 02:13:47,ifMtu:  -> 1492,interface,41364,,3
+10.246.88.18,vyos,48,488975,48,2026-06-06 02:13:47,ifType:  -> ppp,interface,41364,,3
+10.246.88.18,vyos,48,488976,48,2026-06-06 02:13:47,ifConnectorPresent:  -> true,interface,41364,,3
+10.246.88.18,vyos,48,488977,48,2026-06-06 02:48:52,ifDescr:  -> ppp0,interface,41365,,3
+10.246.88.18,vyos,48,488978,48,2026-06-06 02:48:52,ifAlias:  -> ppp0,interface,41365,,3
+10.246.88.18,vyos,48,488979,48,2026-06-06 02:48:52,ifAdminStatus:  -> up,interface,41365,,3
+10.246.88.18,vyos,48,488980,48,2026-06-06 02:48:52,ifOperStatus:  -> up,interface,41365,,3
+10.246.88.18,vyos,48,488981,48,2026-06-06 02:48:52,ifMtu:  -> 1492,interface,41365,,3
+10.246.88.18,vyos,48,488982,48,2026-06-06 02:48:52,ifType:  -> ppp,interface,41365,,3
+10.246.88.18,vyos,48,488983,48,2026-06-06 02:48:52,ifConnectorPresent:  -> true,interface,41365,,3
+117.103.68.166,ccr_omadata,33,488984,33,2026-06-06 02:50:03,Fanspeed under threshold: 4305 rpm (< 5232 rpm),fanspeed,1751,,4
+117.103.68.166,ccr_omadata,33,488985,33,2026-06-06 02:50:03,Fanspeed under threshold: 4095 rpm (< 4860 rpm),fanspeed,1752,,4
+117.103.68.166,ccr_omadata,33,488986,33,2026-06-06 03:15:06,Fanspeed under threshold: 4305 rpm (< 5232 rpm),fanspeed,1751,,4
+117.103.68.166,ccr_omadata,33,488987,33,2026-06-06 03:15:06,Fanspeed under threshold: 4095 rpm (< 4860 rpm),fanspeed,1752,,4
+10.246.88.18,vyos,48,488988,48,2026-06-06 03:18:55,ifDescr:  -> ppp0,interface,41366,,3
+10.246.88.18,vyos,48,488989,48,2026-06-06 03:18:55,ifAlias:  -> ppp0,interface,41366,,3
+10.246.88.18,vyos,48,488990,48,2026-06-06 03:18:55,ifAdminStatus:  -> up,interface,41366,,3
+10.246.88.18,vyos,48,488991,48,2026-06-06 03:18:55,ifOperStatus:  -> up,interface,41366,,3
